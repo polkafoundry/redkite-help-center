@@ -1,6 +1,6 @@
 const ogprefix = "og: http://ogp.me/ns#";
-const title = "TeaWork Documentation";
-const description = "TeaWork application Documentation";
+const title = "Redkite FAQs";
+const description = "Redkite FAQs";
 
 module.exports = {
   // title: title,
