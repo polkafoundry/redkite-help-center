@@ -23,4 +23,3 @@ It is usually because you do not use the same email AND/OR the same wallet addre
 1. If you use different wallet addresses. You should resubmit KYC on Blockpass, using the same email but editing the wallet address.
 
 2. If you use different emails, blockpass may not allow immediate change. Then, please mail to **support@polkafoundry.com** for support.
-
