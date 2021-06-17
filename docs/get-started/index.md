@@ -15,7 +15,7 @@ Please refer to the [**COMPLETE GUIDE**](https://medium.com/polkafoundry/what-to
 
 <h3> How to buy $PKF? </h3>
 
-You can buy $PKF from [**Gate.io**](http://gate.io/) or **Uniswap**. Check it out [**here**](https://coinmarketcap.com/vi/currencies/polkafoundry/).
+You can buy $PKF from [**Gate.io**](http://gate.io/) or [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0x8b39b70e39aa811b69365398e0aace9bee238aeb&use=V2). Check it out [**here**](https://coinmarketcap.com/vi/currencies/polkafoundry/).
 
 <h3> Is $PKF not on bsc or any other network except ethereum? </h3>
 
