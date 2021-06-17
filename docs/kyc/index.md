@@ -8,7 +8,7 @@ In **[My Account]** , click the **[KYC NOW button]** and then it will navigate y
 
 ::: danger KYC note
 Use the same email and address you registered in Red Kite.
-::
+:::
 
 <h2> Do we have to perform KYC each time for every IDO? </h2>
 
