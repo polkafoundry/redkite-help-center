@@ -137,7 +137,7 @@ module.exports = {
             sidebarDepth: 1,
           },
           {
-            title: "AlLocation Result & Buying",
+            title: "Allocation Result & Buying",
             path: "/allocation-result-and-buying/",
             collapsable: false,
             sidebarDepth: 1,
