@@ -6,12 +6,12 @@
 
 Red Kite is a launchpad powered by PolkaFoundry as part of the $PKF ecosystem.
 
-> See more: <router-link to="/guides/before-joining-idos.html#i-how-to-register-connect-wallet-and-kyc">What to do before joining IDOs on Red Kite?</router-link>
+> See more: <router-link to="/guides/before-joining-idos.html">What to do before joining IDOs on Red Kite?</router-link>
 
 ### What is summary steps to do to join IDOs?
 
 Participants will join pools on Red Kite by staking $PKF, passing KYC, and applying whitelists. According to the tier system, the more $PKF you stake, the more allocation you get.
-Please refer to the [**COMPLETE GUIDE**](https://medium.com/polkafoundry/what-to-do-before-joining-idos-on-red-kite-de9b0d778dbe) for more details.
+Please refer to the [**COMPLETE GUIDE**](/guides/before-joining-idos.html#i-how-to-register-connect-wallet-and-kyc) for more details.
 
 ### How to buy $PKF?
 
