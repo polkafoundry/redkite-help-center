@@ -1,6 +1,6 @@
 const ogprefix = "og: http://ogp.me/ns#";
-const title = "Redkite FAQs";
-const description = "Redkite FAQs";
+const title = "Red Kite Help Center";
+const description = "Red Kite Help Center";
 
 module.exports = {
   // title: title,
@@ -23,8 +23,8 @@ module.exports = {
   locales: {
     "/": {
       lang: "en-US",
-      title: "Redkite FAQs",
-      description: "Redkite FAQs",
+      title: "Red Kite Help Center",
+      description: "Red Kite Help Center",
     },
     // "/vi/": {
     //   lang: "vi-VN",
