@@ -16,6 +16,6 @@ Yes, you are required to apply whitelist every time you join a pool.
 
 For public sale, you need to click **[Apply Whitelist]**  and fill out Whitelist Registration form.
 
-<h3> I have summited my whitelist for .... on red kite but I was at a lower tire (Dove). I have upgraded my tier, do I have to resubmit my whitelist? </h3>
+<h3> I submited the whitelist for a IDO on Red Kite, but I was lower tier (Dove). Now I have upgraded my tier, do I have to resubmit the whitelist application form? </h3>
 
 No, you don't need to.
