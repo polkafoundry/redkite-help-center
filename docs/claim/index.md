@@ -6,6 +6,6 @@
 
 After buying token, you need to claim it. Please wait until the claim time starts, then claim your token and you will find the tokens in your wallet.
 
-<h3> How long do we have to claim? </h3>
+<h3> What is the deadline to claim token? </h3>
 
 You can claim any time after claimable time. There is no time limit for claimming.
