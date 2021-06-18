@@ -6,7 +6,7 @@
 
 Red Kite is a launchpad powered by PolkaFoundry as part of the $PKF ecosystem.
 
-> See more: <a href="/guides/before-joining-idos.html#i-how-to-register-connect-wallet-and-kyc" target="_blank"> What to do before joining IDOs on Red Kite?</a>
+> See more: <router-link to="/guides/before-joining-idos.html#i-how-to-register-connect-wallet-and-kyc">What to do before joining IDOs on Red Kite?</router-link>
 
 ### What is summary steps to do to join IDOs?
 
