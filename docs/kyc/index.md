@@ -18,8 +18,8 @@ To check your KYC status, please visit **[My Account]**. If your status is verif
 
 <h3> I've been approved KYC by BlockPass but on Red Kite my KYC is still not updated? </h3>
 
-It is usually because you do not use the same email AND/OR the same wallet addresses between Red Kite and Blockpass. 
+It is usually because you do not use the same email AND/OR the same wallet addresses between Red Kite and Blockpass.
 
 1. If you use different wallet addresses. You should resubmit KYC on Blockpass, using the same email but editing the wallet address.
 
-2. If you use different emails, blockpass may not allow immediate change. Then, please mail to **support@polkafoundry.com** for support.
+2. If you use different emails, Blockpass may not allow immediate change. Then, please mail to **support@polkafoundry.com for support**.
