@@ -1,6 +1,6 @@
 <h2> Introduction Red Kite, a cutting-edge launchpad by PolkaFoundry </h2>
 
-<img src="red.png" width="700"/>
+<img src="./red.png"/>
 
 Bundled with unparalleled features, Red Kite promises to give investors a new and surprising experience of an ordered and assured token sale process.
 

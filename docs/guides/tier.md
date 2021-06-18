@@ -28,6 +28,7 @@ Staking duration is the minimum duration required counting from the day you stak
 :::
 
 :::warning Tier 1: Dove
+</br>
 :::
 
 * Staking requirements: 500 $PKF
@@ -44,6 +45,7 @@ Staking duration is the minimum duration required counting from the day you stak
 * Perks for unlucky members: APY of 10%, calculated on the first day of next month for ones who win no ticket in the previous month
 
 :::warning Tier 2: Hawk
+</br>
 :::
 
 * Staking requirements: 5k $PKF
@@ -60,6 +62,7 @@ Staking duration is the minimum duration required counting from the day you stak
 * Perks for unlucky members: APY of 5%, calculated on the first day of next month for ones who win no ticket in the previous month
 
 :::warning Tier 3: Eagle
+</br>
 :::
 
 * Staking requirements: 20k $PKF
@@ -76,6 +79,7 @@ Staking duration is the minimum duration required counting from the day you stak
   * Occasional airdrop of NFT and tokens
 
 :::warning Tier 4: Phoenix
+</br>
 :::
 
 * Staking requirements: 60k $PKF

@@ -1,6 +1,6 @@
 <img src="./banner.png" />
 
-<h2> Updates on May 24, 2021: </h2>
+### Updates on May 24, 2021:
 
 * Red Kite is now supporting Coinbase Wallet and BSC Wallet (BSC Network);
 * Simplify email verification process: Users only need to click the Verify Email button and fill in their correct email. No more verification link;
@@ -10,7 +10,7 @@ into Red Kite for faster and more secure KYC process. Users who passed the KYC p
 
 ---
 
-<h2> I. HOW TO REGISTER, CONNECT WALLET, AND KYC </h2>
+### I. HOW TO REGISTER, CONNECT WALLET, AND KYC
 
 <h3> 1.1. Step 1: Go to Red Kite Website </h3>
 
@@ -88,7 +88,7 @@ sPKF is the token resulting from staking $PKF on MANTRA DAO. We discontinued thi
 
 <img src="./10.jpg" width="700"/>
 
-<h2> II. HOW TO STAKE/UNSTAKE </h2>
+### II. HOW TO STAKE/UNSTAKE
 
 <h3> 2.1. Applicable networks </h3>
 
@@ -167,7 +167,7 @@ If you unstake tokens from Red Kite or sell your bought tokens early after token
 
 <img src="./17.jpg" width="700"/>
 
-<h2> III. HOW TO JOIN A POOL AND APPLY FOR WHITELIST </h2>
+### III. HOW TO JOIN A POOL AND APPLY FOR WHITELIST
 
 ::: danger Note
 Before joining a pool, make sure you have completed all the steps above.

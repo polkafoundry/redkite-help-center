@@ -1,96 +1,30 @@
-<h3> 1. Method </h3>
+# Get started
 
-* Token holders will have to stake $PKF, Uniswap LP, or sPKF into Red Kite to qualify for tiers.
-* Red Kite will open for registration and staking on **6 May**.
+---
 
-:::danger Conversion:
-* 1 Uniswap LP = 150 $PKF
-* 1 sPKF = 1 $PKF
-:::
+### How Red Kite is related to PolkaFoundry?
 
-*sPKF is the token resulting from staking on MANTRA DAO. Note that staking on MANTRA DAO is no longer recommended and we may discontinue in the future. However, we guarantee the rights of MANTRA DAO stakers in any situation.*
+Red Kite is a launchpad powered by PolkaFoundry as part of the $PKF ecosystem.
 
-<h3> 2. Reputation Multiplier </h3>
+> See more: <a href="/guides/before-joining-idos.html#i-how-to-register-connect-wallet-and-kyc" target="_blank"> What to do before joining IDOs on Red Kite?</a>
 
-* Default reputation multiplier is 1;
-* If you unstake tokens from Red Kite or dump the bought tokens early after token sales, your reputation multiplier will be less than 1;
-* Good behaviors like constructive feedback will increase the reputation multiplier. However, this feature is trial only and will not take effect immediately;
-* The amount of $PKF you hold will be multiplied by the reputation multiplier to determine the tier.
+### What is summary steps to do to join IDOs?
 
-<h3> 3. Luck Multiplier </h3>
+Participants will join pools on Red Kite by staking $PKF, passing KYC, and applying whitelists. According to the tier system, the more $PKF you stake, the more allocation you get.
+Please refer to the [**COMPLETE GUIDE**](https://medium.com/polkafoundry/what-to-do-before-joining-idos-on-red-kite-de9b0d778dbe) for more details.
 
-* For tiers that apply lottery, if you win a ticket in this round, your luck will be reduced to 50% in the next lottery. The luck multiplier will be reset to normal after that.
+### How to buy $PKF?
 
-<h3> 4. Tiers </h3>
+You can buy $PKF from [**Gate.io**](http://gate.io/) or [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0x8b39b70e39aa811b69365398e0aace9bee238aeb&use=V2). Check it out [**here**](https://coinmarketcap.com/vi/currencies/polkafoundry/).
 
-:::danger Note
-Staking duration is the minimum duration required counting from the day you stake until the IDO time. The “holding duration” requirement does not apply for the first IDO of PolkaRARE on 11 May.
-:::
+### Is $PKF not on bsc or any other network except ethereum?
 
-:::warning Tier 1: Dove
-:::
+PKF is not yet on BSC. It's only on ETH.
 
-* Staking requirements: 500 $PKF
-* Staking duration: 1 day
-* Unstaking delay: 1 day
-* Pool size: 15%
-* Lottery-based; one ticket for each 500 $PKF
-* Social activity requirements:
+### How much $PKF do I need to hold to participate in IDO?
 
-  * Twitter: Follow, Like, Comment, Retweet, Tags
+To participate in IDO, you need to stake a minimum 500 $PKF for **Dove** tier.
 
-  * Telegram: Join groups and subscribe channels
+### How much I should stake for guaranteed allocation?
 
-* Perks for unlucky members: APY of 10%, calculated on the first day of next month for ones who win no ticket in the previous month
-
-:::warning Tier 2: Hawk
-:::
-
-* Staking requirements: 5k $PKF
-* Staking duration: 3 day
-* Unstaking delay: 3 day
-* Pool size: 30%
-* Lottery-based; one ticket for each 500 $PKF
-* Social activity requirements:
-
-  * Twitter: Follow & Like
-
-  * Telegram: Join groups and subscribe channels
-
-* Perks for unlucky members: APY of 5%, calculated on the first day of next month for ones who win no ticket in the previous month
-
-:::warning Tier 3: Eagle
-:::
-
-* Staking requirements: 20k $PKF
-* Staking duration: 7 day
-* Unstaking delay: 7 day
-* Pool size: 35%
-* Get one guaranteed-to-win ticket
-* Lottery for the remaining pool, get one ticket for each 2000 $PKF
-* Social activity requirements: none
-* Perk for unlucky members:
-
-  * Twitter: Can participate in private sales, subject to availability
-
-  * Occasional airdrop of NFT and tokens
-
-:::warning Tier 4: Phoenix
-:::
-
-* Staking requirements: 60k $PKF
-* Staking duration: 10 days
-* Unstaking delay: 10 days
-* Pool size: 20%
-* Guaranteed allocation, weighted by a token amount
-* Social activity requirements: none
-* Can participate in private sales, subject to availability
-* Occasional airdrop of NFT and tokens
-
-This tier system will be adjusted after a few projects launch as we gain more experience and get feedback from the community.
-
-<h3> 5. KYC </h3>
-
-For the first project, the Red Kite team will verify KYC for participants. We are working with Blockpass to integrate their KYC system for future launches.
-
-Citizens and residents of the USA will not be able to participate in launches.
+For guaranteed allocation, you need to stake at least 5k $PKF which is equivalent to **Hawk** tier.
