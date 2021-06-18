@@ -17,7 +17,7 @@ Please refer to the [**COMPLETE GUIDE**](/guides/before-joining-idos.html#i-how-
 
 You can buy $PKF from [**Gate.io**](http://gate.io/) or [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0x8b39b70e39aa811b69365398e0aace9bee238aeb&use=V2). Check it out [**here**](https://coinmarketcap.com/vi/currencies/polkafoundry/).
 
-### Is $PKF not on bsc or any other network except ethereum?
+### Is $PKF not on BSC or any other networks except Ethereum?
 
 PKF is not yet on BSC. It's only on ETH.
 
