@@ -167,7 +167,7 @@ If you unstake tokens from Red Kite or sell your bought tokens early after token
 
 <img src="./17.jpg" width="700"/>
 
-### 3. HOW TO JOIN A POOL AND APPLY FOR WHITELIST
+## 3. HOW TO JOIN A POOL AND APPLY FOR WHITELIST
 
 ::: danger Note
 Before joining a pool, make sure you have completed all the steps above.
