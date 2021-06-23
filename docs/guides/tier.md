@@ -1,4 +1,4 @@
-## Tier and Reputation
+# Tier and Reputation
 
 ---
 
