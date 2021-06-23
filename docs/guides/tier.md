@@ -1,4 +1,4 @@
-<h3> 1. Method </h3>
+### 1. Method 
 
 * Token holders will have to stake $PKF, Uniswap LP, or sPKF into Red Kite to qualify for tiers.
 * Red Kite will open for registration and staking on **6 May**.
@@ -10,18 +10,18 @@
 
 *sPKF is the token resulting from staking on MANTRA DAO. Note that staking on MANTRA DAO is no longer recommended and we may discontinue in the future. However, we guarantee the rights of MANTRA DAO stakers in any situation.*
 
-<h3> 2. Reputation Multiplier </h3>
+### 2. Reputation Multiplier 
 
 * Default reputation multiplier is 1;
 * If you unstake tokens from Red Kite or dump the bought tokens early after token sales, your reputation multiplier will be less than 1;
 * Good behaviors like constructive feedback will increase the reputation multiplier. However, this feature is trial only and will not take effect immediately;
 * The amount of $PKF you hold will be multiplied by the reputation multiplier to determine the tier.
 
-<h3> 3. Luck Multiplier </h3>
+### 3. Luck Multiplier 
 
 * For tiers that apply lottery, if you win a ticket in this round, your luck will be reduced to 50% in the next lottery. The luck multiplier will be reset to normal after that.
 
-<h3> 4. Tiers </h3>
+### 4. Tiers 
 
 :::danger Note
 Staking duration is the minimum duration required counting from the day you stake until the IDO time. The “holding duration” requirement does not apply for the first IDO of PolkaRARE on 11 May.
@@ -93,7 +93,7 @@ Staking duration is the minimum duration required counting from the day you stak
 
 This tier system will be adjusted after a few projects launch as we gain more experience and get feedback from the community.
 
-<h3> 5. KYC </h3>
+### 5. KYC 
 
 For the first project, the Red Kite team will verify KYC for participants. We are working with Blockpass to integrate their KYC system for future launches.
 
