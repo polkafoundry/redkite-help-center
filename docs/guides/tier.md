@@ -1,3 +1,7 @@
+## Tier and Reputation
+
+---
+
 ### 1. Method 
 
 * Token holders will have to stake $PKF, Uniswap LP, or sPKF into Red Kite to qualify for tiers.
