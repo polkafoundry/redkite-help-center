@@ -121,10 +121,10 @@ module.exports = {
           },
           {
             title: "Guides",
-            path: "/guides/",
+            path: "/guides/before-joining-idos",
             prefix: "guides/before-joining-idos/",
             collapsable: false,
-            sidebarDepth: 2,
+            sidebarDepth: 3,
             children: [
               ["/guides/before-joining-idos", "Before joining IDOs"],
               ["/guides/tier", "Tier and Reputation"],
@@ -132,8 +132,8 @@ module.exports = {
           },
           {
             title: "FAQs",
-            path: "/faqs/",
-            prefix: "get-started/",
+            path: "/faqs/get-started",
+            prefix: "faqs/get-started/",
             collapsable: false,
             sidebarDepth: 2,
             children: [

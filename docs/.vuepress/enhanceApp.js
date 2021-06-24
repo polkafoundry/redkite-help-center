@@ -10,4 +10,35 @@ export default ({
   options, // the options for the root Vue instance
   router, // the router instance for the app
   siteData, // site metadata
-}) => {};
+}) => {
+  window.addEventListener("load", () => {
+    if (!window.location.pathname.includes("about")) {
+      router.push("/about/");
+    }
+    const removeClassOpen = () => {
+      const elemOpened = document.querySelector(
+        ".sidebar > .sidebar-links > li > section > a.sidebar-heading.open"
+      );
+      if (elemOpened) {
+        elemOpened.classList.remove("open");
+      }
+    };
+    const elemSidebarActive = document.querySelector(
+      ".sidebar > .sidebar-links > li > a.sidebar-link"
+    );
+
+    if (elemSidebarActive) {
+      elemSidebarActive.addEventListener("click", removeClassOpen);
+    }
+
+    const homelink = document.querySelector("a.home-link");
+    if (homelink) {
+      homelink.addEventListener("click", () => {
+        if (!window.location.pathname.includes("about")) {
+          removeClassOpen();
+          router.push("/about/");
+        }
+      });
+    }
+  });
+};
