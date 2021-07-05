@@ -2,103 +2,81 @@
 
 ---
 
-## 1. Method 
+## 1. Method
 
-* Token holders will have to stake $PKF, Uniswap LP, or sPKF into Red Kite to qualify for tiers.
-* Red Kite will open for registration and staking on **6 May**.
+<h3> 1.1. Tier determination </h3>
 
-:::danger Conversion:
-* 1 Uniswap LP = 150 $PKF
-* 1 sPKF = 1 $PKF
+The tier of each user on Red Kite is determined by the total number of Red Kite points they own. Users can earn Red Kite points through the following ways:
+1. Staking PKF, PolkaFoundry native token, on Red Kite. Each staked PKF will earn 1 Red Kite point.
+2. Adding PKF-ETH to Uniswap liquidity pool to get LP-PKF, then staking them to Red Kite. Each staked LP-PKF will earn 150 Red Kite points.
+3. Contributing KSM, Kusama native token, to PolkaSmith’s crowdloan on Red Kite. Each locked KSM will earn 500 Red Kite points(*)
+
+::: warning Note
+(*) Read [**HERE**](https://medium.com/polkafoundry/polkasmith-kusama-parachain-auction-in-a-nutshell-e73892169719) to know more about the reward policies for KSM contributors.
 :::
 
-*sPKF is the token resulting from staking on MANTRA DAO. Note that staking on MANTRA DAO is no longer recommended and we may discontinue in the future. However, we guarantee the rights of MANTRA DAO stakers in any situation.*
+We no longer count the PKF staking on MANTRA DAO. If you have PKFs staked there, please unstake then re-stake them into Red Kite Launchpad.
+::: tip Example
+For example, John is staking 1,000 PKF and 20 LP-PKF, locking 2 KSM in the PolkaSmith’s crowdloan on Red Kite.
 
-## 2. Reputation Multiplier 
-
-* Default reputation multiplier is 1;
-* If you unstake tokens from Red Kite or dump the bought tokens early after token sales, your reputation multiplier will be less than 1;
-* Good behaviors like constructive feedback will increase the reputation multiplier. However, this feature is trial only and will not take effect immediately;
-* The amount of $PKF you hold will be multiplied by the reputation multiplier to determine the tier.
-
-## 3. Luck Multiplier 
-
-* For tiers that apply lottery, if you win a ticket in this round, your luck will be reduced to 50% in the next lottery. The luck multiplier will be reset to normal after that.
-
-## 4. Tiers 
-
-:::danger Note
-Staking duration is the minimum duration required counting from the day you stake until the IDO time. The “holding duration” requirement does not apply for the first IDO of PolkaRARE on 11 May.
+The number of Red Kite points John is owning = 1,000 + 20*150 + 2*500 = 5,000. According to the Tier conditions in Section 2, John is a Hawk.
 :::
 
-:::warning Tier 1: Dove
-</br>
-:::
+<h3> 1.2. Snapshot time </h3>
 
-* Staking requirements: 500 $PKF
-* Staking duration: 1 day
-* Unstaking delay: 1 day
-* Pool size: 15%
-* Lottery-based; one ticket for each 500 $PKF
-* Social activity requirements:
+For a specific pool, the tier and token allocation of each user will be determined by the snapshot method at the time of closing the whitelist form of that pool.
 
-  * Twitter: Follow, Like, Comment, Retweet, Tags
+From the snapshot moment until the pool’s sale ends, whitelisters need to maintain their tier equal to or higher than the tier defined at the snapshot time. Any case of tier reduction during this period will forfeit the right to join the pool.
 
-  * Telegram: Join groups and subscribe channels
+After the snapshot, users can continue to earn more Red Kite points to increase their tier. The new tier is only valid for pools that have not taken a snapshot.
 
-* Perks for unlucky members: APY of 10%, calculated on the first day of next month for ones who win no ticket in the previous month
+## 2. Tiers
 
-:::warning Tier 2: Hawk
-</br>
-:::
+<img src="./tier.png" />
 
-* Staking requirements: 5k $PKF
-* Staking duration: 3 day
-* Unstaking delay: 3 day
-* Pool size: 30%
-* Lottery-based; one ticket for each 500 $PKF
-* Social activity requirements:
+<h3> 2.1. Dove </h3>
 
-  * Twitter: Follow & Like
+* Owning at least 500 Red Kite points and above;
+* No fixed pool size;
+* No minimum staking time required and unstaking delay (for PKF & LP-PKF);
+* Lottery-based;
+* Ticket price based on actual project & pool;
+* Social interaction requirements: Join Telegram groups, subscribe to Telegram announcement channels, follow Twitter accounts, and retweet IDO/pool announcement with hashtags and cash tags.
 
-  * Telegram: Join groups and subscribe channels
+<h3> 2.2. Hawk </h3>
 
-* Perks for unlucky members: APY of 5%, calculated on the first day of next month for ones who win no ticket in the previous month
+* Owning at least 5,000 Red Kite points and above;
+* No fixed pool size;
+* No minimum staking time required and unstaking delay (for PKF & LP-PKF);
+* Guaranteed allocation for whitelist. Allocation is prorated based on the amount of Red Kite points the user owning at the snapshot time;
+* Social interaction requirements: Join Telegram groups, subscribe to Telegram announcement channels, follow Twitter accounts, and retweet IDO/pool announcement with hashtags and cash tags.
 
-:::warning Tier 3: Eagle
-</br>
-:::
+<h3> 2.3. Eagle </h3>
 
-* Staking requirements: 20k $PKF
-* Staking duration: 7 day
-* Unstaking delay: 7 day
-* Pool size: 35%
-* Get one guaranteed-to-win ticket
-* Lottery for the remaining pool, get one ticket for each 2000 $PKF
-* Social activity requirements: none
-* Perk for unlucky members:
+* Owning at least 20,000 Red Kite points and above;
+* No fixed pool size;
+* No minimum staking time required and unstaking delay (for PKF & LP-PKF);
+* Guaranteed allocation for whitelist. Allocation is prorated based on the amount of Red Kite points the user owning at the snapshot time;
+* No social interaction requirements;
+* Exclusive pool for Eagle (subject to availability).
 
-  * Twitter: Can participate in private sales, subject to availability
+<h3> 2.4. Phoenix </h3>
 
-  * Occasional airdrop of NFT and tokens
+* Owning at least 60,000 Red Kite points and above;
+* No fixed pool size;
+* No minimum staking time required and unstaking delay (for PKF & LP-PKF);
+* Guaranteed allocation for whitelist. Allocation is prorated based on the amount of Red Kite points the user owning at the snapshot time;
+* No social interaction requirements;
+* Exclusive pool for the Phoenix tier such as seed and private sales;
+* Occasional airdrop of NFT and tokens;
+* Invitation to a private prosperity group with exclusive support only for Phoenix.
 
-:::warning Tier 4: Phoenix
-</br>
-:::
+## 3. Others 
 
-* Staking requirements: 60k $PKF
-* Staking duration: 10 days
-* Unstaking delay: 10 days
-* Pool size: 20%
-* Guaranteed allocation, weighted by a token amount
-* Social activity requirements: none
-* Can participate in private sales, subject to availability
-* Occasional airdrop of NFT and tokens
+<h3> 3.1. KYC </h3>
 
-This tier system will be adjusted after a few projects launch as we gain more experience and get feedback from the community.
+* Since May 24, 2021, Red Kite has only accepted KYC via Blockpass.
 
-## 5. KYC 
+<h3> 3.2. Luck Multiplier</h3>
 
-For the first project, the Red Kite team will verify KYC for participants. We are working with Blockpass to integrate their KYC system for future launches.
-
-Citizens and residents of the USA will not be able to participate in launches.
+* For tiers that apply lottery, suppose you do not win a ticket in a successful whitelisting. In that case, your luck will be doubled when you successfully participate in the next whitelist.

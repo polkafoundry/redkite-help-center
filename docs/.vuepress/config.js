@@ -127,6 +127,8 @@ module.exports = {
             sidebarDepth: 3,
             children: [
               ["/guides/before-joining-idos", "Before joining IDOs"],
+              ["/guides/swap", "How to Swap Tokens"],
+              ["/guides/claim", "How to Claim Tokens"],
               ["/guides/tier", "Tier and Reputation"],
             ],
           },
