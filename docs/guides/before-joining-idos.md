@@ -63,7 +63,7 @@
 
 * Click the “Connect Wallet” button in the header. Be sure to select the wallet address you have already registered to sign in.
 
-  * If you want to use a different wallet address, you will need to register as a new account. Refer **1.1. Register Account** for more details.
+  * If you want to use a different wallet address, you will need to register as a new account. Refer [**1.1. Register Account**](https://redkite-faq.polkafoundry.com/guides/before-joining-idos.html#_1-1-register-account) for more details.
 
 <img src="./image36.png" width="700"/>
 
