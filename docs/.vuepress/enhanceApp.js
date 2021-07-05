@@ -12,7 +12,9 @@ export default ({
   siteData, // site metadata
 }) => {
   window.addEventListener("load", () => {
-    if (!window.location.pathname.includes("about")) {
+    
+    // if (!window.location.pathname.includes("about")) {
+      if (["", "/"].includes(window.location.pathname)) {
       router.push("/about/");
     }
     const removeClassOpen = () => {
