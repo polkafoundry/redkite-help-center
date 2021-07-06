@@ -133,14 +133,14 @@ Due to network congestion, your transaction could take some time. You may need t
 
 * Once the transaction is confirmed, you can verify your wallet balance, staked amount and the obtained tier on the “My Account” screen.
 
-<img src="./image39.png" width="700"/>
+<img src="./image39.jpg" width="700"/>
 
 ### 1.3.3. Unstake
 
 * Click “Unstake” button on the ‘My Account” screen. 
 * Follow the same procedure for staking tokens.
 
-<img src="./image34.png" width="700"/>
+<img src="./image34.jpg" width="700"/>
 
 ## 1.4. Join A Pool and Apply for Whitelist
 
@@ -189,7 +189,7 @@ Due to network congestion, your transaction could take some time. You may need t
   * You have completed all tasks required by the project’s team according to your tier.
   * You have entered your Twitter and Telegram’s username.
 
-<img src="./image4.png" width="700"/>
+<img src="./image4.jpg" width="700"/>
 
 * The system will verify your information after you click “Apply Whitelist” button.
 
@@ -207,7 +207,7 @@ Due to network congestion, your transaction could take some time. You may need t
   * You have not followed or subscribed to the social accounts as required by the pool
 * Please complete all requirements and click the “Apply Whitelist” button on the popup again.
 
-<img src="./image7.png" width="700"/>
+<img src="./image7.jpg" width="700"/>
 
 **1.4.2.3. Case 3: Pending (Dove & Hawk Tier)**
 
