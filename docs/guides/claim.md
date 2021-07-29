@@ -1,4 +1,4 @@
-# III. How to Claim Tokens
+# How to Claim Tokens
 
 ---
 

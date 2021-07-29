@@ -126,10 +126,12 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 3,
             children: [
-              ["/guides/before-joining-idos", "Before joining IDOs"],
-              ["/guides/swap", "How to Swap Tokens"],
-              ["/guides/claim", "How to Claim Tokens"],
-              ["/guides/tier", "Tier and Reputation"],
+              // ["/guides/definition", "Definitions"],
+              ["/guides/before-joining-idos", "I. Before joining IDOs"],
+              ["/guides/swap", "II. How to Swap Tokens"],
+              ["/guides/claim", "III. How to Claim Tokens"],
+              ["/guides/tier", "IV. Tier and Reputation"],
+              ["/guides/myaccount", "V. My Account"],
             ],
           },
           {
@@ -139,7 +141,7 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 2,
             children: [
-              ["/faqs/get-started", "Get Started with Red Kite"],
+              ["/faqs/get-started", "Get Started"],
               ["/faqs/kyc", "KYC"],
               ["/faqs/staking", "Staking"],
               ["/faqs/whitelist", "Whitelist"],

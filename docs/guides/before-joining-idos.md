@@ -1,4 +1,4 @@
-# Before joining IDOs
+# I. Before joining IDOs
 
 ---
 

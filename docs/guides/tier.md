@@ -1,10 +1,10 @@
-# Tier and Reputation
+# IV. Tier and Reputation
 
 ---
 
-## 1. Method
+## 4.1. Method
 
-<h3> 1.1. Tier determination </h3>
+<h3> 4.1.1. Tier determination </h3>
 
 The tier of each user on Red Kite is determined by the total number of Red Kite points they own. Users can earn Red Kite points through the following ways:
 1. Staking PKF, PolkaFoundry native token, on Red Kite. Each staked PKF will earn 1 Red Kite point.
@@ -22,7 +22,7 @@ For example, John is staking 1,000 PKF and 20 LP-PKF, locking 2 KSM in the Polka
 The number of Red Kite points John is owning = 1,000 + 20*150 + 2*500 = 5,000. According to the Tier conditions in Section 2, John is a Hawk.
 :::
 
-<h3> 1.2. Snapshot time </h3>
+<h3> 4.1.2. Snapshot time </h3>
 
 For a specific pool, the tier and token allocation of each user will be determined by the snapshot method at the time of closing the whitelist form of that pool.
 
@@ -30,11 +30,11 @@ From the snapshot moment until the pool’s sale ends, whitelisters need to main
 
 After the snapshot, users can continue to earn more Red Kite points to increase their tier. The new tier is only valid for pools that have not taken a snapshot.
 
-## 2. Tiers
+## 4.2. Tiers
 
 <img src="./tier.png" />
 
-<h3> 2.1. Dove </h3>
+<h3> 4.2.1. Dove </h3>
 
 * Owning at least 500 Red Kite points and above;
 * No fixed pool size;
@@ -43,7 +43,7 @@ After the snapshot, users can continue to earn more Red Kite points to increase 
 * Ticket price based on actual project & pool;
 * Social interaction requirements: Join Telegram groups, subscribe to Telegram announcement channels, follow Twitter accounts, and retweet IDO/pool announcement with hashtags and cash tags.
 
-<h3> 2.2. Hawk </h3>
+<h3> 4.2.2. Hawk </h3>
 
 * Owning at least 5,000 Red Kite points and above;
 * No fixed pool size;
@@ -51,7 +51,7 @@ After the snapshot, users can continue to earn more Red Kite points to increase 
 * Guaranteed allocation for whitelist. Allocation is prorated based on the amount of Red Kite points the user owning at the snapshot time;
 * Social interaction requirements: Join Telegram groups, subscribe to Telegram announcement channels, follow Twitter accounts, and retweet IDO/pool announcement with hashtags and cash tags.
 
-<h3> 2.3. Eagle </h3>
+<h3> 4.2.3. Eagle </h3>
 
 * Owning at least 20,000 Red Kite points and above;
 * No fixed pool size;
@@ -60,7 +60,7 @@ After the snapshot, users can continue to earn more Red Kite points to increase 
 * No social interaction requirements;
 * Exclusive pool for Eagle (subject to availability).
 
-<h3> 2.4. Phoenix </h3>
+<h3> 4.2.4. Phoenix </h3>
 
 * Owning at least 60,000 Red Kite points and above;
 * No fixed pool size;
@@ -71,12 +71,12 @@ After the snapshot, users can continue to earn more Red Kite points to increase 
 * Occasional airdrop of NFT and tokens;
 * Invitation to a private prosperity group with exclusive support only for Phoenix.
 
-## 3. Others 
+## 4.3. Others 
 
-<h3> 3.1. KYC </h3>
+<h3> 4.3.1. KYC </h3>
 
 * Since May 24, 2021, Red Kite has only accepted KYC via Blockpass.
 
-<h3> 3.2. Luck Multiplier</h3>
+<h3> 4.3.2. Luck Multiplier</h3>
 
 * For tiers that apply lottery, suppose you do not win a ticket in a successful whitelisting. In that case, your luck will be doubled when you successfully participate in the next whitelist.
