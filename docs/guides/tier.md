@@ -19,7 +19,7 @@ We no longer count the PKF staking on MANTRA DAO. If you have PKFs staked there,
 ::: tip Example
 For example, John is staking 1,000 PKF and 20 LP-PKF, locking 2 KSM in the PolkaSmith’s crowdloan on Red Kite.
 
-The number of Red Kite points John is owning = 1,000 + 20*150 + 2*500 = 5,000. According to the Tier conditions in Section 2, John is a Hawk.
+The number of Red Kite points John is owning = 1,000 + 20 * 150 + 2 * 500 = 5,000. According to the Tier conditions in Section 2, John is a Hawk.
 :::
 
 <h3> 4.1.2. Snapshot time </h3>
