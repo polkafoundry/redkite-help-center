@@ -42,7 +42,7 @@
 
 <img src="./image31.png" width="700"/>
 
-* Go to My Account, you will see your KYC’s status as “Unverified”.
+* Go to **My Account > Profile menu**, you will see your KYC’s status as “Unverified”.
 
 <img src="./image30.png" width="700"/>
 
@@ -89,6 +89,10 @@
 
 ### 1.3.2. Stake
 
+Go to **My Account > My Tier** to stake / unstake tokens. Click [here](https://redkite-faq.polkafoundry.com/guides/myaccount.html#_5-1-how-to-access-network) to learn how to access this menu.
+
+Your tier on Red Kite is determined by Total Red Kite points. Click [here](https://redkite-faq.polkafoundry.com/guides/myaccount.html#_5-2-my-profile) to learn more about My Tier menu.
+
 **1.3.2.1 Step 1. Approve**
 
 * You need to Approve Red Kite Smart Contract once (and only once) before staking. If you have already approved, you can skip this step.
@@ -131,13 +135,13 @@ Due to network congestion, your transaction could take some time. You may need t
 <img src="./image28.png" width="550"/>
 </div>
 
-* Once the transaction is confirmed, you can verify your wallet balance, staked amount and the obtained tier on the “My Account” screen.
+* Once the transaction is confirmed, you can verify your wallet balance, staked amount and the obtained tier on the "My Tier" menu of “My Account” screen.
 
-<img src="./image39.jpg" width="700"/>
+<img src="./image39.png" width="700"/>
 
 ### 1.3.3. Unstake
 
-* Click “Unstake” button on the ‘My Account” screen. 
+* Click “Unstake” button on the ‘My Tier” screen.
 * Follow the same procedure for staking tokens.
 
 <img src="./image34.jpg" width="700"/>
