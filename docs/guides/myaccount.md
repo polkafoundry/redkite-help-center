@@ -59,7 +59,7 @@
 
 * In the “Overview” tab, you can:
   * (1) Check the Tier Progress Bar.
-  * (2) Stake / Unstake to update your token. Click [hereơ](https://redkite-faq.polkafoundry.com/guides/before-joining-idos.html#_1-3-stake-unstake) for the guide of Stake / Unstake Flow on Red Kite.
+  * (2) Stake / Unstake to update your token. Click [here](https://redkite-faq.polkafoundry.com/guides/before-joining-idos.html#_1-3-stake-unstake) for the guide of Stake / Unstake Flow on Red Kite.
   * (3) Check your staked amount of PKF or LP-PKF and your Red kite points you have earned through the KSM Contribution and User’s Reputation System. The “Total Red Kite Points (RPKs) is the sum of “Staked” column.
   * (4) “How to earn more Red Kite points” more about the Red Kite points.
 
