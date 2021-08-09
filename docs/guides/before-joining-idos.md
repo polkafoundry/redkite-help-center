@@ -1,8 +1,6 @@
 # I. Before joining IDOs
 
 ---
-## Test
-
 ## 1.1. Register Account
 
 ### 1.1.1. Step 1. Go to Red Kite Website
