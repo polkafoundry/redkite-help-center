@@ -26,14 +26,10 @@
 
 ### 1.1.3. Step 3. Choose Network and Wallet
 
-* On the Connect Wallet popup, choose the Network and the Wallet you use.
+* In the Connect Wallet popup window, choose the network among Ethereum, BSC and Polygon networks and the corresponding wallet you use.
 
 <div align="center">
-   <img src="./image35.png" height="400" />
-</div>
-
-<div align="center">
-   <img src="./image24.png" height="400" />
+   <img src="./image35.jpg" height="400" />
 </div>
 
 ### 1.1.4. Step 4. KYC
@@ -72,20 +68,7 @@
 ### 1.3.1. Applicable networks
 
 * Stake / Unstake tokens on Red Kite are currently only supported by Ethereum Network.  
-* To switch from BSC Network to Ethereum Network: Change the network on your wallet, the network on Red Kite will be updated accordingly. 
-* If you are using BSC Wallet, you can refer to the steps below to add your account to Ethereum Wallet.
-
-  * Step 1: Export Private Key of BSC Wallet
-    * Open your BSC Wallet
-    * Click dot icon and select Export Private Key 
-
-  * Step 2: Import Private Key to Ethereum Wallet
-    * Add a new account to your Ethereum Wallet using your exported Private Key
-    * After you have successfully added, please use your Ethereum network and wallet to stake/ unstake on Red Kite
-
-<div align="center">
-<img src="./image21.jpg" width="350"/>
-</div>
+* To switch from BSC Network or Polygon Network to Ethereum Network: Change the network on your wallet, the network on Red Kite will be updated accordingly.
 
 ### 1.3.2. Stake
 
@@ -98,14 +81,14 @@ Your tier on Red Kite is determined by Total Red Kite points. Click [here](https
 * You need to Approve Red Kite Smart Contract once (and only once) before staking. If you have already approved, you can skip this step.
 * Go to My Account, click “Stake” button on “My Tier”. It will navigate you to Staking Screen.
 
-<img src="./image25.png" width="700"/>
+<img src="./image25.jpg" width="700"/>
 
 * On this screen:
   * Choose the token you want to approve (PKF or LP-PKF) from the drop-down list
   * Input the amount you want to approve or click Max to auto-fill with your maximum capability
   * Click the “Approve” button. It will connect you to your wallet address. Accept the transaction and you have approved successfully. 
 
-* Conversation Rate: 1 Uniswap LP = 150 $PKF.
+* Conversation Rate: Conversation Rate: 1 Uniswap LP = 400 Red Kite Points.
 
 <img src="./image33.png" width="700"/>
 
@@ -137,7 +120,7 @@ Due to network congestion, your transaction could take some time. You may need t
 
 * Once the transaction is confirmed, you can verify your wallet balance, staked amount and the obtained tier on the "My Tier" menu of “My Account” screen.
 
-<img src="./image39.png" width="700"/>
+<img src="./image39.jpg" width="700"/>
 
 ### 1.3.3. Unstake
 
@@ -147,11 +130,6 @@ Due to network congestion, your transaction could take some time. You may need t
 <img src="./image34.jpg" width="700"/>
 
 ## 1.4. Join A Pool and Apply for Whitelist
-
-::: tip UPDATE POINTS!
-* We have integrated the whitelist application form to Red Kite.
-* You can track and confirm your whitelist status as Success, Fail or Pending.
-:::
 
 ### 1.4.1. Step 1. Choose a Pool
 
@@ -178,9 +156,15 @@ Due to network congestion, your transaction could take some time. You may need t
 <img src="./image26.png" width="700"/>
 
 ::: warning NOTE
-“Apply Whitelist” Button is disabled if you do not meet the conditions to apply for whitelisting.  For example, if you have not achieved min tier of pool:
-* An error message is displayed in the header as in the following screen.
-* “Apply Whitelist” button is disabled
+The "Apply Whitelist" button is disabled in the following cases:
+
+1. Wrong Network. You must select the network on your wallet that matches the network in the pool.
+
+    E.g, The Network of Pool is BSC Network -> You must select BSC Network on your wallet. 
+
+2. You do not meet the conditions to apply for whitelisting.
+
+    For example, if you have not achieved min tier of pool, an error message is displayed in the header as in the following screen.
 :::
 
 <img src="./image19.png" width="700"/>
@@ -193,7 +177,13 @@ Due to network congestion, your transaction could take some time. You may need t
   * You have completed all tasks required by the project’s team according to your tier.
   * You have entered your Twitter and Telegram’s username.
 
-<img src="./image4.jpg" width="700"/>
+::: warning NOTE
+Please input your username of Twitter and Telegram like the following example.
+* Your Twitter is https://twitter.com/PolkaFoundry -> Please input **@PolkaFoundry** in Your Twitter Account. 
+* Your Telegram is https://t.me/PolkaFoundry -> -> Please input **@PolkaFoundry** in Your Telegram Account.
+:::
+
+<img src="./image4.jpg" width="500"/>
 
 * The system will verify your information after you click “Apply Whitelist” button.
 
@@ -216,14 +206,13 @@ Due to network congestion, your transaction could take some time. You may need t
 **1.4.2.3. Case 3: Pending (Dove & Hawk Tier)**
 
 * Your whitelist application might be pending due to some unforeseen technical issues (Ex: overload check) that occurred during the verification of your social requirements. 
-* We will check and verify your application later in a short time. You can click “Whitelist Status” button to check your social requirement’s status. 
+* We will verify your application **WITHIN 1 DAY**. We will send you an email at **support@polkafoundry.com** to explain why your application is pending approval. Please be patient and keep an eye on the email. You can click “Whitelist Status” button to check your social requirement’s status.
 * Once all the requirements are met, your whitelist application will be approved.
 
-<img src="./image8.png" width="700"/>
-<img src="./image15.png" width="700"/>
+<img src="./image8.jpg" width="700"/>
 
 ::: tip INFORMATION
 Meaning of Social Requirement Verification’s Icons.
 :::
 
-<img src="./icon_meaning.png" width="700"/>
+<img src="./icon_meaning.png" width="600"/>
