@@ -1,13 +1,6 @@
 # I. Before joining IDOs
 
 ---
-
-::: tip UPDATE POINTS!
-
-* Remove the "Verify Email" step: No need to enter the email on Red Kite. The email you use on Blockpass for KYC will be automatically reflected on Red Kite.
-* Automatic network change: Once you change the network on your wallet, the network on Red Kite will be updated accordingly.
-:::
-
 ## 1.1. Register Account
 
 ### 1.1.1. Step 1. Go to Red Kite Website
