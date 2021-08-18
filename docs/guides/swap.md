@@ -4,8 +4,11 @@
 
 ## 2.1. Check your Allocation
 
-* You can check your allocation when whitelist winners of the pool are announced. 
-* Select the pool for which you have applied whitelist successfully and open its detail.
+You can check your allocation in the 2 following ways when whitelist winners of the pool are announced.
+
+1. Go to My Account > My Pool, check the number on "Allocation" column. You can read more [here](https://redkite-faq.polkafoundry.com/guides/myaccount.html#_5-4-1-overview).
+
+2. Select the pool for which you have applied whitelist successfully and open its detail.
 
 :::danger NOTE
 You must connect the wallet address which you have used to apply the pool’s whitelist.
@@ -25,11 +28,22 @@ You must connect the wallet address which you have used to apply the pool’s wh
 * Step 2. Swap Tokens
 :::
 
-## 2.2. Step 1. Approve
+## 2.2. Check your buy time
+
+Red Kite includes 2 token purchasing phases, which are:
+
+* **Phase 1:** For members with guaranteed allocation. If you are the winner of the pool and won an allocation, please purchase within Phase 1.
+* **Phase 2:** At the end of Phase 1, if there are still any tokens left, this amount of tokens will be opened for sale in Phase 2 for everyone on the whitelist (whether winning or not winning the lottery and get guaranteed allocation or not). Each person will be able to buy up to a maximum of $ worth of tokens in the form of FCFS. The maximum amount is determined by each project.
+
+Please check carefully the purchase time on the Token Swap area.
+
+<img src="./image67.jpg" width="700"/>
+
+## 2.3. Step 1. Approve
 
 * The “Swap Token” and “Claim Token” areas will appear when it comes to the Pool’s opening time.
 
-<img src="./image17.png" width="700"/>
+<img src="./image17.jpg" width="700"/>
 
 * This step is required when the currencies required by the pool are non-native tokens. You must approve their use on the pool's smart contract. For pools using ETH or BNB (native tokens), this step is skipped.  
 * You need to ***Approve once (and only once)*** before you can start purchasing.
@@ -39,7 +53,7 @@ You must connect the wallet address which you have used to apply the pool’s wh
   * The token will be automatically calculated based on the amount you input and the exchange rate. (3)
   * Confirm all the information and click “Approve” button. (4)
 
-<img src="./image5.png" width="700"/>
+<img src="./image5.jpg" width="700"/>
 
   * Confirm the transaction in your wallet after clicking “Approve” button.
   * After confirming, you will see an option to view your transaction on Etherscan or BscScan.
@@ -52,12 +66,12 @@ You must connect the wallet address which you have used to apply the pool’s wh
  <img src="./image10.png" width="400"/>
 </div>
 
- ## 2.3. Step 2. Swap
+ ## 2.4. Step 2 - Swap
 
 * You can swap tokens after approving successfully. 
 * On Step 2. Swap, enter the amount you want to purchase (or click Max to auto fill with your max) and click the “Swap” button.
 
-<img src="./image18.png" width="700"/>
+<img src="./image18.jpg" width="700"/>
 
 * Confirm on your wallet and wait until the transaction is mined. The “Token Deposit Successful” message will be displayed after your transaction is confirmed and processed successfully. 
 * You can check your purchased tokens on the Claim Token Area and just only need to wait for the pool time to finish before being able to claim and withdraw them.
