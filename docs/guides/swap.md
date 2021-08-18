@@ -39,7 +39,7 @@ Please check carefully the purchase time on the Token Swap area.
 
 <img src="./image67.jpg" width="700"/>
 
-## 2.3. Step 1. Approve
+## 2.3. Step 1 - Approve
 
 * The “Swap Token” and “Claim Token” areas will appear when it comes to the Pool’s opening time.
 
@@ -98,4 +98,4 @@ Please check carefully the purchase time on the Token Swap area.
 
 (5) You have reached your maximum allocation.
 
-<img src="./image12.png" width="700"/>
+<img src="./image12.jpg" width="700"/>
