@@ -13,8 +13,7 @@
 
 <img src="./image49.png" width="700"/>
 
-* The “My Account” menu includes 4 sub-menus: My Profile, My Tier, My Pool, and Need Help. 
-* You need to use the Ethereum Network to use the “My Account” Menu. To switch to Ethereum Network, please change the network on your wallet, the network on Red Kite will be updated accordingly.
+* The “My Account” menu includes 4 sub-menus: My Profile, My Tier, My Pool, and Need Help.
 
 <img src="./image50.png" width="700"/>
 
@@ -46,14 +45,14 @@
   * **Your Tier:** Your current tier. Click the “Tier Benefits” tab to check the policies and benefits of the four tiers, Phoenix, Eagle, Hawk, and Dove, on the Red Kite launchpad.
   * **Total Red Kite Points (RKPs):** The total number of Red Kite points you own. Your tier on Red Kite is determined by this number. Red Kite points can be earned through the following ways:
     * (1) Staking PKF, PolkaFoundry native token, on Red Kite. Each staked PKF will earn 1 Red Kite point.
-    * (2) Adding PKF-ETH to Uniswap liquidity pool to get LP-PKF, then staking them to Red Kite. Each staked LP-PKF will earn 800 Red Kite points.
+    * (2) Adding PKF-ETH to Uniswap liquidity pool to get LP-PKF, then staking them to Red Kite. Each staked LP-PKF will earn 400 Red Kite points.
     * (3) Contributing KSM, Kusama native token, to PolkaSmith’s crowdloan on Red Kite. Each locked KSM will earn 500 Red Kite points. (Click [here](https://medium.com/polkafoundry/polkasmith-kusama-parachain-auction-in-a-nutshell-e73892169719) to know more about the reward policies for KSM contributors).
     * (4) Earning Reputation by staking PKF or LP-PKF on Red Kite. Reputation is the number of Red Kite points given to loyal launchpad users, calculated by the Reputation multiplier (Click [here](https://medium.com/polkafoundry/users-reputation-system-on-red-kite-feb4b4890df0) to know more about User’s Reputation System on Red Kite).
   * **Point left to next tier:** The remaining RPKs you need to reach the next tier.
 
     For example: Your current tier is Dove and you have 1,000 RPKs -> You need 4,000 RPKs to achieve the Hawk Tier.
 
-<img src="./image54.png" width="700"/>  
+<img src="./image54.jpg" width="700"/>  
 
 ### 5.3.2. Overview
 
@@ -142,13 +141,9 @@
 
 * Click the “Cancel Whitelist” button in the “Action” column > The Cancel Whitelist popup will appear.
 
-<div align="center"><img src="./image61.png" width="300"/></div>
+<div align="center"><img src="./image61.jpg" width="300"/></div>
 
-* Click “Yes, Sure” button to cancel your whitelist application. 
-  * You cannot re-apply the whitelist after you have canceled. 
-  * The “Apply Whitelist” button is no longer displayed in the pool detail.
-
-<img src="./image62.png" width="700"/>
+* Click “Yes, Sure” button to cancel your whitelist application. You may resubmit your application before the end of the whitelist.
 
 ### 5.4.3. Pre-order for Phoenix tier
 

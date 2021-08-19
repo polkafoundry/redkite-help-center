@@ -22,3 +22,7 @@ Please make sure that you did two steps.
 * Step 2. Stake
 
 Please refer to "How to stake/ unstake section" in this [**guide**](https://redkite-faq.polkafoundry.com/guides/before-joining-idos.html#_1-3-stake-unstake).
+
+### Which tokens I can stake to Red Kite?
+
+You can either stake $PKF (our token) or staking LP-PKF from providing liquidity on Uniswap V2.
