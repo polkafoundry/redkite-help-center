@@ -53,7 +53,7 @@ After the snapshot, users can continue to earn more Red Kite points to increase 
 
 <h3> 4.2.3. Eagle </h3>
 
-* Owning at least 20,000 Red Kite points and above;
+* Owning at least 40,000 Red Kite points and above;
 * No fixed pool size;
 * No minimum staking time required and unstaking delay (for PKF & LP-PKF);
 * Guaranteed allocation for whitelist. Allocation is prorated based on the amount of Red Kite points the user owning at the snapshot time;
@@ -62,7 +62,7 @@ After the snapshot, users can continue to earn more Red Kite points to increase 
 
 <h3> 4.2.4. Phoenix </h3>
 
-* Owning at least 60,000 Red Kite points and above;
+* Owning at least 80,000 Red Kite points and above;
 * No fixed pool size;
 * No minimum staking time required and unstaking delay (for PKF & LP-PKF);
 * Guaranteed allocation for whitelist. Allocation is prorated based on the amount of Red Kite points the user owning at the snapshot time;
