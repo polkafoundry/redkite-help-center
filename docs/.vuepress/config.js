@@ -132,6 +132,7 @@ module.exports = {
               ["/guides/claim", "III. How to Claim Tokens"],
               ["/guides/tier", "IV. Tier and Reputation"],
               ["/guides/myaccount", "V. My Account"],
+              //["/guides/guide_staking", "VI. Staking"],
             ],
           },
           {

@@ -26,3 +26,17 @@ Please refer to "How to stake/ unstake section" in this [**guide**](https://redk
 ### Which tokens I can stake to Red Kite?
 
 You can either stake $PKF (our token) or staking LP-PKF from providing liquidity on Uniswap V2.
+
+* For PKF:
+    You can buy $PKF on UNISWAP V2 [**here**](https://app.uniswap.org/#/swap?inputCurrency=0x8b39b70e39aa811b69365398e0aace9bee238aeb&outputCurrency=ETH&use=V2).
+
+    On [GATE.io](https://www.gate.io/)
+    * [https://www.gate.io/trade/pkf_usdt](https://www.gate.io/trade/pkf_usdt)
+    * [https://www.gate.io/trade/pkf_eth](https://www.gate.io/trade/pkf_eth)
+
+    Or on [**Ascendex**](https://ascendex.com/en/cashtrade-spottrading/usdt/pkf).
+
+* For LP-PKF
+  Please check the price [**here**](https://app.zerion.io/invest/asset/0xfe903a12359496b932e24c5e9b78f1b9060a6342?utm_source=defimarketcap).
+
+  And provide liquidy on [**Unviswap V2**](https://app.uniswap.org/#/add/v2/ETH/0x8B39B70E39Aa811b69365398e0aACe9bee238AEb).
