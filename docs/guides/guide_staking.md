@@ -415,7 +415,7 @@ Example:
 
 **STEP 5:** When the withdrawal delay time is over, click the Withdraw button to receive your tokens in your wallet. Be sure to click Sign on your wallet to confirm the transaction.
 
-<img src="./image108.png" width="700"/>
+<img src="./image107.png" width="700"/>
 
 #### 6.4.4.2. Linear Rate pool with lock-up term (3 months, 6 months, 1 year)
 
@@ -437,7 +437,7 @@ You can only unstake when it reaches the Expiry Date.
 
 
 :::warning NOTE
-1. There is no withdrawal delay time for linear rate pool with Linear Rate pool with lock-up term (3 months, 6 months, 1 year)
+1. There is no withdrawal delay time for Linear Rate pool with lock-up term (3 months, 6 months, 1 year).
 
 2. When it reaches the expiry date, you should unstake tokens since both of the unstaked amount and the staking rewards you have earned up to the expiry date will be transferred to your wallet address. Meanwhile, if you choose to claim rewards (by clicking the **Claim Token** button), only the staking rewards will be transferred to your wallet address.
 
