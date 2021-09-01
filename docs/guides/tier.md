@@ -9,18 +9,9 @@
 The tier of each user on Red Kite is determined by the total number of **Red Kite points** they own. Users can earn Red Kite points through the following ways:
 1. Staking PKF, PolkaFoundry native token, on Red Kite. Each staked PKF will earn **1 Red Kite point.**
 2. Adding PKF-ETH to Uniswap V2 liquidity pool to get LP-PKF, then staking them to Red Kite. Each staked LP-PKF will earn **400 Red Kite points.**
-3. Contributing KSM, Kusama native token, to PolkaSmith’s crowdloan on Red Kite, each locked KSM will earn **500 Red Kite points** (*).
 
 ::: warning Note
 (*) On September 1st, the 2nd batch of the Kusama parachain auction will begin. We’ll walk you through the process of joining PolkaSmith’s crowdloan on Red Kite and announce the associated rewards in a separate article.
-:::
-
-::: tip Example
-For example, John is staking 1,000 PKF and 20 LP-PKF, locking 2 KSM in the PolkaSmith’s crowdloan on Red Kite.
-
-→ The number of Red Kite points John is owning = 20,000 + 40 * 400 + 8 * 500 = 50,000.
-
-→ According to the Tier conditions in Section 2, John is an Eagle.
 :::
 
 <h3> 4.1.2. Snapshot time </h3>
