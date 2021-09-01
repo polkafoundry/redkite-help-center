@@ -94,7 +94,7 @@ The allocation pool includes the following information.
 
 **CASE 1: Insufficient PKF or LP-PKF Balance**
 
-The button is disabled if you do not have PKF or LP-PKF to stake. Click here to know more about how to get PKF or LP-PKF.
+The button is disabled if you do not have PKF or LP-PKF to stake. Click [here](https://redkite-faq.polkafoundry.com/faqs/staking.html#which-tokens-i-can-stake-to-red-kite) to know more about how to get PKF or LP-PKF.
 
 **CASE 2: Sufficient PKF or LP-PKF Balance**
 * The Stake popup will appear after you click the **Stake** button.
@@ -191,7 +191,7 @@ After confirming the transaction, your staking information will be updated accor
 
 <img src="./image85.png" width="700"/>
 
-(1) The staking rewards you have earned up to the date you unstake your tokens will be transferred to your wallet address. In the “Earned” area of pool detail, the staking rewards are continuously calculated by your remaining staked amount.
+(1) The staking rewards you have earned up to the date you unstake your tokens will be transferred to your wallet address. In the “Earned” area of pool detail, the staking rewards continue to be calculated by your remaining staked amount.
 
 (2) Staking: The amount remaining after you unstaked. If you continue to unstake, the confirm popup will appear when you click the **Unstake** button again.
 
@@ -205,7 +205,8 @@ Example:
 * Withdrawal delay time: 7 days
 * On 2021-09-01 11:00:00 (UTC+8), you unstaked your tokens -> You can withdraw your tokens on 2021-09-08 11:00:00 (UTC+8)
 * But On 2021-09-03 12:30:00 (UTC+8), you continued to unstake your tokens -> The withdrawal delay time extended to 2021-09-09 12:30:00 (UTC+8).
-* Withdrawal Amount & Available at: The amount you unstaked and the date and time when you can withdraw it. The **Withdraw** button is disabled until it reaches the date time you can withdraw tokens.
+
+(3) Withdrawal Amount & Available at: The amount you unstaked and the date and time when you can withdraw it. The **Withdraw** button is disabled until it reaches the date time you can withdraw tokens.
 
 **STEP 5:** When the withdrawal delay time is over, click the Withdraw button to receive your tokens in your wallet. Be sure to click Sign on your wallet to confirm the transaction. 
 
@@ -246,12 +247,12 @@ When you unstake tokens:
 <img src="./image89.png" width="700"/>
 
 The detail information of pool includes:
-* Total Pool Amount: The maximum number of tokens can be staked in the pool. The text “Unlimited” is displayed if the pool does not limit the number of tokens to be staked. 
-* Progress Bar: Describes Total tokens staked by users / Total Pool Amount
-* Start Join Time: Start time to join this pool
-* End Join Time: End time to join this pool. 
-* Stake amount (Min): Minimum number of tokens you need to stake
-* Stake amount (Max): Maximum number of tokens you can stake
+* Total Pool Amount: The maximum number of tokens can be staked in the pool. The text “Unlimited” is displayed if the pool does not limit the number of tokens to be staked.
+* Progress Bar: Describes Total tokens staked by users / Total Pool Amount.
+* Start Join Time: Start time to join this pool.
+* End Join Time: End time to join this pool.
+* Stake amount (Min): Minimum number of tokens you need to stake.
+* Stake amount (Max): Maximum number of tokens you can stake.
 
 <img src="./image90.png" width="700"/>
 
@@ -269,7 +270,7 @@ The detail information of pool includes:
 
 **CASE 1: Insufficient PKF or LP-PKF Balance**
 
-The button is disabled if you do not have PKF or LP-PKF to stake. Click here to know more about how to get PKF or LP-PKF. 
+The button is disabled if you do not have PKF or LP-PKF to stake. Click [here](https://redkite-faq.polkafoundry.com/faqs/staking.html#which-tokens-i-can-stake-to-red-kite) to know more about how to get PKF or LP-PKF. 
 
 **CASE 2: Sufficient PKF or LP-PKF Balance**
 * The Stake popup will appear after you click the **Stake** button.
@@ -280,7 +281,6 @@ The button is disabled if you do not have PKF or LP-PKF to stake. Click here to 
 <div align="center">
 <img src="./image94.png" width="300"/>
 </div>
-
 
 After staking successfully, you can see the number of tokens you staked and staking rewards.
 * Linear Rate pool with no limit of lock-up term:
@@ -311,10 +311,10 @@ For staking pools **with IDO** benefit, the staked numbers of PKF or LP-PKF will
 <img src="./image98.png" width="300"/>
 </div>
 
+**NOTE**
 
-::: warning NOTE
-** 1. For Linear Rate pool with no lock-up term:**
-* You can instantly claim the staking rewards accumulated up to the date you staked more tokens. Click Claim Token to claim staking rewards. (Refer to 6. 4.3 for more details)
+**1. For Linear Rate pool with no lock-up term:**
+* You can instantly claim the staking rewards accumulated up to the date you staked more tokens. Click Claim Token to claim staking rewards. (Refer to 6. 4.3 for more details).
 * The new staking rewards are calculated from the date and time you staked more, and based on your new staked amount of PKF or LP-PKF.
 
 **2. For Linear Rate pool with lock-up term (3 months, 6 months, 1 year)**
@@ -324,10 +324,8 @@ For staking pools **with IDO** benefit, the staked numbers of PKF or LP-PKF will
 <img src="./image99.png" width="500"/>
 </div>
 
-
 * After you click **Yes, Sure** to confirm, you can instantly claim the staking rewards accumulated up to the date you staked more tokens. Click Claim Token to claim staking rewards. (Refer to 6. 4.3 for more details).
 * The new staking rewards are calculated from the date and time you staked more, and based on your new staked amount of PKF or LP-PKF.
-:::
 
 ### 6.4.3. How to Claim Staking Rewards
 
@@ -407,8 +405,8 @@ After confirming the transaction, your staking information will be updated accor
 When you continue to unstake, the withdrawal delay time will be extended, starting from the last date and time you unstaked, whether or not you have any tokens pending withdrawal.
 
 Example:
-* Withdrawal delay time: 7 days
-* On 2021-09-01 11:00:00 (UTC+8), you unstaked your tokens -> You can withdraw your tokens on 2021-09-08 11:00:00 (UTC+8)
+* Withdrawal delay time: 7 days.
+* On 2021-09-01 11:00:00 (UTC+8), you unstaked your tokens -> You can withdraw your tokens on 2021-09-08 11:00:00 (UTC+8).
 * But On 2021-09-03 12:30:00 (UTC+8), you continued to unstake your tokens -> The withdrawal delay time extended to 2021-09-09 12:30:00 (UTC+8). 
 
 (3) Withdrawal Amount & Available at: The amount you unstaked and the date and time when you can withdraw it. The Withdraw button is disabled until it reaches the date time you can withdraw tokens.
