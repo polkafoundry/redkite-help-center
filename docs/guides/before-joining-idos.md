@@ -58,6 +58,12 @@
 
 ## 1.3. Stake / Unstake
 
+::: danger IMPORTANT UPDATE
+* Red Kite has launched a new [Smart Contract for Staking](https://medium.com/polkafoundry/staking-with-interest-on-red-kite-new-contract-and-transfer-period-part-2-31a103c38b1e) on Wednesday, September 1, 2021 at 7:00am UTC.
+Please visit the [Staking menu](https://redkite-faq.polkafoundry.com/guides/guide_staking.html#_6-1-how-to-access) to stake PKF or LP-PKF at Red Kite. 
+* The "Stake" feature is officially removed from the "My Tier" menu.
+:::
+
 ### 1.3.1. Applicable networks
 
 * Stake / Unstake tokens on Red Kite are currently only supported by Ethereum Network.  
