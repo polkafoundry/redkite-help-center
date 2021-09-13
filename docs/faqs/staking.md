@@ -12,7 +12,7 @@ No, you must stake on Red Kite.
 
 ### How can I stake $PKF on Red Kite? 
 
-Check it out [**here**](https://redkite-faq.polkafoundry.com/guides/before-joining-idos.html).
+Check it out [**here**](https://redkite-faq.polkafoundry.com/faqs/staking.html#how-can-i-stake-pkf-on-red-kite).
 
 ### I staked my PKF, transaction approved, it still doesn't show anything under "Staked" column on Red Kite. What should do I do? 
 

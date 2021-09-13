@@ -27,4 +27,4 @@ To participate in IDO, you need to stake a minimum 500 $PKF for **Dove** tier.
 
 ### How much I should stake for guaranteed allocation?
 
-For guaranteed allocation, you need to stake at least 5k $PKF which is equivalent to **Hawk** tier.
+For guaranteed allocation, you need to stake at least 40k $PKF which is equivalent to **Eagle** tier.
