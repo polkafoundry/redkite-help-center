@@ -6,10 +6,6 @@
 
 In **[My Account]** , click the **[KYC NOW button]**. It will navigate you to Icetea Labs KYC on Blockpass.
 
-::: danger KYC note
-Use the same email and address you registered in Red Kite.
-:::
-
 ### Do we have to perform KYC each time for every IDO?
 
 No, KYC is a one time thing.
