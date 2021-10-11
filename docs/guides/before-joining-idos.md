@@ -16,7 +16,7 @@ Follow the 4 steps below to join the IDOs on Red Kite: **Connect Wallet > Stake 
 * •	In the Connect Wallet popup window, choose the network among Ethereum, BSC and Polygon networks and the corresponding wallet you use.
 
 <div align="center">
-   <img src="./image111.jpg" height="400" />
+   <img src="./image111.png" height="400" />
 </div>
 
 ## 1.2. Stake
@@ -46,8 +46,9 @@ You need to achieve one of Red Kite tiers (Dove, Hawk, Eagle, Phoenix) to be eli
 Please input your username of Twitter and Telegram like the following example.
 * Your Twitter is https://twitter.com/PolkaFoundry -> Please input **@PolkaFoundry** in Your Twitter Account.
 * Your Telegram is https://t.me/PolkaFoundry -> -> Please input **@PolkaFoundry** in Your Telegram Account.
+:::
 
-<img src="./image113.png" width="700"/>
+<img src="./image113.jpeg" width="700"/>
 
 * The system will verify your information after you click “Apply Whitelist” button.
 
