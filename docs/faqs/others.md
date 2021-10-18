@@ -25,3 +25,18 @@ Thanks for reaching out, feel free to send your proposal to **info@polkafoundry.
 ### Who should I contact for support/ issues on Red Kite?
 
 Please mail to **support@polkafoundry.com**.
+
+### Failure to perform the following operations on BSC network using MetaMask wallet: Approve - Swap - Claim
+
+Recently, several users have got into trouble with wallet connection, which leads to the non-display of wallet balance, and issues once applying whitelist or staking.
+To deal with those problems, we recommend users to change RPC URL to public node as the following steps:
+For users using MetaMask wallet:
+1️⃣ Choose MetaMask Extension 
+2️⃣ Go to setting page 
+3️⃣ Choose Networks tab 
+4️⃣ Choose Binance Smart Chain/BSC 
+5️⃣ Change RPC URL to https://bsc-dataseed.binance.org/
+
+<div align="center">
+   <img src="./image114.png" height="400" />
+</div>
