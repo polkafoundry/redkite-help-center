@@ -36,7 +36,3 @@ For users using MetaMask wallet:
 3️⃣ Choose Networks tab 
 4️⃣ Choose Binance Smart Chain/BSC 
 5️⃣ Change RPC URL to https://bsc-dataseed.binance.org/
-
-<div align="center">
-   <img src="./image114.png" height="400" />
-</div>
