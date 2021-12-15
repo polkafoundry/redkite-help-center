@@ -2,9 +2,7 @@
 
 ---
 
-:::warning NOTE
-Follow the 4 steps below to join the IDOs on Red Kite: **Connect Wallet > Stake > KYC > Apply Whitelist**.
-:::
+
 
 ## 1.1. Connect Wallet
 
