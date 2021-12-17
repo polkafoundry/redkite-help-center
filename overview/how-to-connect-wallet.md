@@ -2,15 +2,17 @@
 
 To connect your wallet to Red Kite, follow the steps below.
 
-#### **Step 1**: Go to the [Red Kite Website](http://redkite.polkafoundry.com/#/dashboard)****
+### **Step 1.** Go to the [Red Kite Website](http://redkite.polkafoundry.com/#/dashboard)****
 
-#### **Step 2**: Click “Connect Wallet” in the header. The “Connect Wallet” popup will appear.
+### **Step 2.** Click “Connect Wallet” in the header.&#x20;
 
 ![](../.gitbook/assets/1.png)
 
-* **Step 3**: On the popup, select the network and the wallet you use. We recommend using Metamask, which is fully supported by Red Kite Website.
+#### **Step 3. Select network and wallet to connect**
 
-_**Note**_: Before connecting your wallet, you must agree Red Kite's Terms of Service and Privacy Policy.
+On the "Connect Wallet" popup, select the network and the wallet you use. We recommend using Metamask, which is fully supported by Red Kite Website.
+
+_**Note**_: Before connecting your wallet, you must agree to Red Kite's Terms of Service and Privacy Policy.
 
 ![Connect Wallet Popup](../.gitbook/assets/Screenshot\_39.png)
 
