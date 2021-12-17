@@ -14,6 +14,6 @@ The pools are divided into 2 sections: “**Pool IDO**” and **“Pool Communit
 Learn more about Red Kite:
 
 * [How to join IDO Pool on Red Kite](how-to-join-ido-pools.md)
-* [How to join Community Pool on Red Kite](how-to-join-community-pool.md)
+* [How to join Community Pool on Red Kite](how-to-join-community-pools.md)
 * [What’s Red Kite tier?\
   ](https://medium.com/polkafoundry/aug-21-new-tier-policy-updates-for-red-kite-launchpad-2ac617ad81be)

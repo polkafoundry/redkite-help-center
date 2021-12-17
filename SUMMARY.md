@@ -9,7 +9,7 @@
 
 * [Type of pools on Red Kite](join-idos/type-of-pools-on-red-kite.md)
 * [How to join IDO Pools](join-idos/how-to-join-ido-pools.md)
-* [How to join Community Pool](join-idos/how-to-join-community-pool.md)
+* [How to join Community Pools](join-idos/how-to-join-community-pools.md)
 
 ## Swap & Claim
 
