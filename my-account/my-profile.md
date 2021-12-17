@@ -57,7 +57,7 @@ To connect (disconnect) your wallet address, please:
 
 ![](../.gitbook/assets/Screenshot\_15.png)
 
-![](../.gitbook/assets/Screenshot\_16.png)
+![](<../.gitbook/assets/Screenshot\_16 (1).png>)
 
 3\. Click the "**Update Profile**" button then "**Approved**" on your wallet to save your connected wallet addresses.&#x20;
 
