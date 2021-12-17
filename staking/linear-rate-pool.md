@@ -1,6 +1,6 @@
 # Linear Rate Pool
 
-**1.** **GENERAL INFORMATION**
+## **1.** General Information
 
 ![Linear Rate Pools](../.gitbook/assets/Screenshot\_75.png)
 
@@ -26,7 +26,7 @@ Lock-up term: The length of time the tokens remain locked. Current terms on Red 
 * The system will stop calculating your rewards.
 * After the delay time, you can receive the tokens you staked to your wallet address
 
-**2. HOW TO STAKE**
+## **2. Stake**
 
 **Step 1.** Click the "**Details**" button to view the detailed information of the pool.
 
@@ -71,7 +71,7 @@ You can view the number of tokens you staked and the stalking rewards after stak
 For staking pools with IDO benefit, the staked numbers of PKF or LP-PKF will be used to calculate RKPs, which determine your tier on Red Kite. Go to My Account > My Tier menu to check your tier and your RKPs.&#x20;
 {% endhint %}
 
-**3. HOW TO STAKE MORE**
+## **3. Stake more**
 
 **Step 1:** Open the pool you have already staked by clicking the Details button.
 
@@ -87,7 +87,7 @@ The new staking rewards are calculated from the date and time you staked more, a
 
 For Linear Rate pool with lock-up term (3 months, 6 months, 1 year)**,** the expiry date will be extended from the date and time you staked more PKF or LP-PKF
 
-**4. CLAIM STAKE REWARDS**
+## **4. Claim staking rewards**
 
 **Step 1:** Open the pool for which you want to claim rewards by clicking on the Details button.
 
@@ -115,8 +115,9 @@ You can claim rewards in the following cases:
 * OR You can claim all of your staking rewards after the expiry date.
 {% endhint %}
 
-**5. HOW TO UNSTAKE**\
-**5.1. Linear Rate pool with no lock-up term**
+## **5. Unstake**
+
+### **5.1. Linear Rate pool with no lock-up term**
 
 **Step 1**: Open the pool details by clicking on the "Details" button.
 
@@ -164,9 +165,9 @@ Example:
 
 ![Withdraw token after withdrawal delay time](../.gitbook/assets/Screenshot\_74.png)
 
-**5.2. Linear Rate pool with lock-up term**
+### **5.2. Linear Rate pool with lock-up term**
 
-The steps to unstake fom Linear Rate Pool with lock-up term is the same as the one with no lock-up term. However:&#x20;
+The steps to unstake from Linear Rate Pool with lock-up term is the same as the one with no lock-up term. However:&#x20;
 
 1. There is no withdrawal delay time.&#x20;
 2. Only the Staking Rewards will stop being earned once it reaches the expiry date. Your tier and Red Kite Points are preserved unless you unstake.

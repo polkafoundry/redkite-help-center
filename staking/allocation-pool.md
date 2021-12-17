@@ -4,7 +4,7 @@
 **UNI-V2 LP-PKF pool has stopped receiving LP-PKF staking. This** [**policy** ](https://twitter.com/PolkaFoundry/status/1444950425426284544?s=20)**is applied from October 4, 2021, until a new announcement.**
 {% endhint %}
 
-**1. GENERAL INFORMATION**
+## **1. General Information**
 
 ![Allocation Pool](../.gitbook/assets/Screenshot\_50.png)
 
@@ -28,7 +28,7 @@ The allocation pool includes the following information.
 * The system will stop calculating your rewards.
 * After the delay time, you can receive the tokens you staked to your wallet address.
 
-**2. HOW TO STAKE**
+## **2. Stake**
 
 **Step 1.** Click the Details button to view the detailed information of the pool.
 
@@ -64,7 +64,7 @@ You can view the number of tokens you staked and the stalking rewards after stak
 
 For staking pools with IDO benefit, the staked numbers of PKF or LP-PKF will be used to calculate RKPs, which determine your tier on Red Kite. Go to My Account > My Tier menu to check your tier and your RKPs.&#x20;
 
-**3. HOW TO STAKE MORE**
+## **3. Stake more**
 
 **Step 1:** Open the pool you have already staked by clicking the Details button.
 
@@ -78,7 +78,7 @@ For staking pools with IDO benefit, the staked numbers of PKF or LP-PKF will be 
 
 The new staking rewards are calculated from the date and time you staked more, and based on your new staked amount of PKF or LP-PKF, total tokens staked in pools, number of blocks, etc.
 
-**4. CLAIM STAKE REWARDS**
+## **4. Claim staking rewards**
 
 **Step 1:** Open the pool for which you want to claim rewards by clicking on the Details button.
 
@@ -96,8 +96,9 @@ The new staking rewards are calculated from the date and time you staked more, a
 Staking rewards will be reset to 0 after you have successfully claimed and continue to be calculated by your remaining staked amount.
 {% endhint %}
 
-**5. HOW TO UNSTAKE**\
-****For Allocation Pools, you can unstake tokens at any time but you must wait until the end of the delay time to withdraw your token. Follow the steps below to unstake your tokens.
+## **5. Unstake**
+
+For Allocation Pools, you can unstake tokens at any time but you must wait until the end of the delay time to withdraw your token. Follow the steps below to unstake your tokens.
 
 **Step 1:** Open the pool details by clicking on the "**Details"** button.
 
