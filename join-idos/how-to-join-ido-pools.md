@@ -4,6 +4,8 @@ Here are 4 steps for you to start to join IDOs on Red Kite.
 
 ![4 steps to join IDO pool on Red Kite](../.gitbook/assets/Screenshot\_41.png)
 
+## **I. STEP 1. STAKE**
+
 You must stake PKF or LP-PKF to achieve a Red Kite tier (Dove, Hawk, Eagle, Phoenix).
 
 * More information on how to stake on Red Kite can be found here
@@ -19,7 +21,7 @@ After staking successfully, you can check your achieved tier by one of the follo
 
 ![How to check your tier](<../.gitbook/assets/image (19).png>)
 
-**II. STEP 2. KYC**
+## **II. STEP 2. KYC**
 
 To be eligible for the IDO Pool’s Whitelist, you must complete the KYC and be approved. Please follow these steps to complete the KYC.
 
@@ -37,11 +39,11 @@ To be eligible for the IDO Pool’s Whitelist, you must complete the KYC and be 
 
 Once your KYC profile is approved, your KYC status will be changed to “**Verified**”. You are now qualified to apply for the IDO Pools’ whitelists on Red Kite.
 
-**III. STEP 3. APPLY WHITELIST**
+## **III. STEP 3. APPLY WHITELIST**
 
 You can apply for the pool’s whitelist when the whitelist period is open. Follow these steps below to submit your application.
 
-**1.      Select the pool that you want to apply for the whitelist.**
+**1. Select the pool that you want to apply for the whitelist.**
 
 _**Note**_: The “**Apply Whitelist**” button is disabled if the whitelist application period is not yet open. You can check the application period in the timeline area in the "Coming Soon" area on the left of the screen.
 
@@ -73,7 +75,7 @@ After submitting the whitelist, you can check the status as “**Applied Whiteli
 
 **You have already completed all the steps necessary to apply for IDO's Red Kite pools.** All that remains is to wait for the allocation to be announced.
 
-**IV. STEP 4: CHECK ALLOCATION RESULT**
+## **IV. STEP 4: CHECK ALLOCATION RESULT**
 
 You can check the allocation result of the pool for which you applied using one of the ways listed below.
 
