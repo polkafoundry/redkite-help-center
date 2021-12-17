@@ -24,7 +24,7 @@ Prior to KYC, you must first stake to reach Red Kite Tier. More information on h
 
 ![My Profile - "Verified" status](<../.gitbook/assets/3 (1)>)
 
-### **2. Edit Profile**
+## **2. Edit Profile**
 
 Click the “Edit Profile” button on the upper right corner to update your Twitter and Telegram accounts.
 
