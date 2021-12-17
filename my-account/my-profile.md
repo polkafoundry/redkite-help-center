@@ -2,7 +2,7 @@
 
 In the “My Profile” menu, you can: (1) KYC; (2) Edit Profile and (3) Connect sub-wallets.
 
-**1. KYC**
+## **1. KYC**
 
 To be eligible for the IDO Pool’s Whitelist, you must complete the KYC and be approved. You can check that your KYC status is temporarily “**Unverified**”.
 
@@ -24,11 +24,11 @@ Prior to KYC, you must first stake to reach Red Kite Tier. More information on h
 
 ![My Profile - "Verified" status](<../.gitbook/assets/3 (1)>)
 
-**2. Edit Profile**
+### **2. Edit Profile**
 
 Click the “Edit Profile” button on the upper right corner to update your Twitter and Telegram accounts.
 
-![My Profile - Edit Button](<../.gitbook/assets/4 (1)>)
+![Click "Edit Profile" button](../.gitbook/assets/Screenshot\_11.png)
 
 Enter or update your Twitter and Telegram account then click “Update Profile” to save your latest information.
 
@@ -38,7 +38,7 @@ Enter or update your Twitter and Telegram account then click “Update Profile�
 
 ![My Profile - Edit account](<../.gitbook/assets/5 (2)>)
 
-**3. Connect sub-wallets**
+## **3. Connect sub-wallets**
 
 Your wallets linked to Red Kite are listed in the “Wallet Addresses” area.
 
@@ -47,4 +47,23 @@ Your wallets linked to Red Kite are listed in the “Wallet Addresses” area.
 * **Main Wallet Address:** This is your primary wallet address for staking, KYC, and applying for the pool whitelists.
 * **The sub-wallet addresses (Solana and Terra)**: The sub-wallet will be used when you apply for whitelists of IDO pools based on Solana and Terra networks. You will participate in the IDO Pools by using your main wallet address, and your tokens will be sent to your Solana or Terra Address that you connected.
 
-Click “**Connect**” then “**Sign**” from the signature request received on your wallet. Once you confirmed, you have successfully added your sub-wallet addresses on the Red Kite launchpad.
+To connect (disconnect) your wallet address, please:
+
+1. Click the "**Edit Profile**" button on the upper right corner of the screen. Click "**Sign**" from the signature request received on your wallet to edit your profile.&#x20;
+
+![](../.gitbook/assets/Screenshot\_14.png)
+
+2\. Click "**Connect**" to connect the sub-wallet addresses. You will be asked to confirm your wallet on the website. To connect your wallet, click "**Sign**" on the wallet.
+
+![](../.gitbook/assets/Screenshot\_15.png)
+
+![](../.gitbook/assets/Screenshot\_16.png)
+
+3\. Click the "**Update Profile**" button then "**Approved**" on your wallet to save your connected wallet addresses.&#x20;
+
+![](../.gitbook/assets/Screenshot\_17.png)
+
+&#x20;You have successfully added your sub-wallet addresses on the Red Kite launchpad.
+
+![](../.gitbook/assets/Screenshot\_18.png)
+

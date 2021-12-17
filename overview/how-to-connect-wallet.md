@@ -1,7 +1,5 @@
 # How to connect wallet
 
-**I. How to connect wallet on Red Kite**
-
 To connect your wallet to Red Kite, follow the steps below.
 
 * **Step 1**: Go to the [Red Kite Website](http://redkite.polkafoundry.com/#/dashboard)****

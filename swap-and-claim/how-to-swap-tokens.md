@@ -1,6 +1,6 @@
 # How to swap tokens
 
-**I. Checklist before swapping token**
+## **I. Checklist before swapping token**
 
 Before you swap tokens, make sure you go over the following checklists.
 
@@ -22,11 +22,11 @@ You can check the “**Accepted Currency**” and “**Network**” in the pool 
 
 **For Community Pools, there is just one purchase phase.** You can check the swap date time in the timeline on the left side of the screen.
 
-**II. Token Swap Steps**
+## **II. Token Swap Steps**
 
 When the token swap begins, go to the “**Swap & Claim**” tab to swap and claim your tokens. To swap the tokens, follow these two steps:
 
-**2.1.  STEP 1. APPROVE**
+### **2.1.  STEP 1. APPROVE**
 
 This step is required when the currencies required by the pool are non-native tokens. You must approve their use on the pool's smart contract. For pools using ETH or BNB (native tokens), this step is skipped.
 
@@ -45,7 +45,7 @@ You will be asked to confirm the transaction in your wallet. Click the “Approv
 
 ![Transaction Submitted Popup](../.gitbook/assets/Screenshot\_44.png)
 
-**2.2. STEP 2 - SWAP**
+### **2.2. STEP 2 - SWAP**
 
 After properly approving, you can swap tokens by following the below steps:
 
