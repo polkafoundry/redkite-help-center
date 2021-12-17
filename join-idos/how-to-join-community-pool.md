@@ -4,13 +4,13 @@ On Red Kite, there are no Tiers or KYC requirements for the Community Pool. To b
 
 ![3 steps to join Community Pool](<../.gitbook/assets/image (7).png>)
 
-**I. STEP 1. SELECT POOL**
+## **I. STEP 1. SELECT POOL**
 
 Select a pool from the "Pool Community" section of the "Upcoming" area on the pool dashboard and view its details.
 
 ![Community Pools](<../.gitbook/assets/image (24).png>)
 
-**II. STEP 2. COMPLETE GLEAM TASK**
+## **II. STEP 2. COMPLETE GLEAM TASK**
 
 **1. To participate in the competition, click the "Join Competition" option.**
 
@@ -24,7 +24,7 @@ _**Note**_: The “Apply Whitelist” button is disabled if the whitelist applic
 
 A total of 500 winners will be chosen from all participants in the Gleam competition.
 
-**III. STEP 3. CHECK ALLOCATION RESULTS**
+## **III. STEP 3. CHECK ALLOCATION RESULTS**
 
 You can find out if you won the community pool by using one of the ways listed below.
 

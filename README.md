@@ -2,7 +2,7 @@
 
 ![Red Kite](<.gitbook/assets/Soar with Red Kite.png>)
 
-#### **Introduction Red Kite, a cutting-edge launchpad by PolkaFoundry**
+### **Introduction Red Kite, a cutting-edge launchpad by PolkaFoundry**
 
 Bundled with unparalleled features, Red Kite promises to give investors a new and surprising experience of an ordered and assured token sale process.
 
@@ -19,37 +19,37 @@ The first IDO will hit the Red Kite launchpad in the first half of May, launchin
 
 Here are some of the promising features of the Red Kite platform, which sets it apart from the rest of the ecosystem players.
 
-#### **Multi-chain support**
+### **Multi-chain support**
 
 Red Kite supports Ethereum and BSC pools and will soon support Polkadot pools after rigorous testing on the PolkaFoundry testnet, becoming the first-ever launchpad on Polkadot.
 
-#### **Parachain Crowdloan**
+### **Parachain Crowdloan**
 
 Red Kite will not only be the first launchpad on Polkadot, but it will also support the crowdloan campaigns for parachain auctions on both Polkadot and Kusama. Projects interested in securing a parachain slot can collect KSM or DOT tokens to win the auction. PolkaFoundry will be the first project to run a parachain campaign on Red Kite.
 
-#### **Hand-picked and vetted projects**
+### **Hand-picked and vetted projects**
 
 To protect investors’ interest, Red Kite carefully hand-pick the projects that go through a vetting process that considers everything from the project teams’ origin to legitimacy and execution capability. This vetting process helps build investor’s confidence, so they can know their money is secure.
 
-#### **Tier and Reputation**
+### **Tier and Reputation**
 
 To further strengthen the platform, our bot system monitors every participant’s behavior and sets reputation points. This mechanism punishes behaviors that are considered negative to the token’s healthy pricing. The reputation score will affect the participant’s tier and their ability to participate in future launches.
 
-#### **Fairness (lane-based swap system)**
+### **Fairness (lane-based swap system)**
 
 With Red Kite’s lane-based swap system, every participant will get an opportunity to join based on their tier without indulging in a ‘gas war’ to ensure fair and efficient participation.
 
-#### **Integrated vesting schedule**
+### **Integrated vesting schedule**
 
 There will be a distribution portal for projects that will allow them to vest their sold tokens in pre-sale or post-sale secondary offerings. It is similar to the portal in use for $PKF token claiming [https://distro.polkafoundry.com (opens new window)](https://distro.polkafoundry.com).
 
-#### **Integrated vesting schedule**
+### **Integrated vesting schedule**
 
 Red Kite is starting as a launchpad, and this is just the beginning. It will transform into a platform offering a full suite of DeFi services in the future.
 
 The smart contract is currently going through the audit process, and the team will soon provide an update once the audit is complete.
 
-#### **About PolkaFoundry**
+### **About PolkaFoundry**
 
 PolkaFoundry is a platform for building borderless and frictionless DeFi dApps on Polkadot. It aims to be the one-stop production hub for DeFi dApps with all the necessary features, services, integrations, and tools for DeFi experiments, innovations, and real-world solutions.
 
