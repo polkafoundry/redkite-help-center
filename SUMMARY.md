@@ -29,3 +29,7 @@
 * [Overview](staking/overview.md)
 * [Allocation Pool](staking/allocation-pool.md)
 * [Linear Rate Pool](staking/linear-rate-pool.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
