@@ -5,13 +5,6 @@
 * [Introduce](README.md)
 * [How to connect wallet](overview/how-to-connect-wallet.md)
 
-## Referral Program
-
-* [What's Referral Program?](referral-program/whats-referral-program.md)
-* [For the referrers](referral-program/for-the-referrers.md)
-* [For referred users](referral-program/for-referred-users.md)
-* [Q\&A about Referral Program](referral-program/q-and-a-about-referral-program.md)
-
 ## JOIN IDOS
 
 * [Type of pools on Red Kite](join-idos/type-of-pools-on-red-kite.md)
