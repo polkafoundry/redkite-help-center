@@ -1,21 +1,31 @@
+---
+description: >-
+  Red Kite Releases IDO Refund Feature Aimed to Protect our Investors. Due to
+  market volatility, numerous investors were concerned about joining IDO on our
+  platform. After a long time of discussion and
+---
+
 # How to refund tokens
+
+![](https://lh6.googleusercontent.com/u-Kvfhfao1VNiLNgkSls87F3aT0z79o3bqPUeRwXd-plbcyeJSZruzn\_0LZ65UpQ9qSKjWizYjsR6vQbiwuO1cxShbbvRFeuraUUvFzm6ITkr0CRbQnETER3xU91ayJ5PVR4nXd4icUUPhhjXg)
 
 ## 1. **What is the Refund Feature?**&#x20;
 
-A risk-free way for active IDO investors to participate in the token sale, and it allows users to observe the token’s performance on the market while still being able to get their funds back.
+By using the IDO refund mechanism, users can decide whether to receive their money back after observing how the token performs on the market. This feature provides a risk-free approach for active IDO investors to participate in the token sale.
 
 ## 2. Effective Date
 
-These refund terms will take effect on June 23, 2022, and will apply to all IDOs from that date forward.
+The refund function will take effect on **JUNE 23** and will apply to all IDOs from that date forward.
 
 ## 3. Applicable Scope
 
-Users/Investors join IDOs on Red Kite Launchpad.
+Users and investors join IDOs on Red Kite launchpad.
 
 ## 4. Terms and Conditions of Refund
 
 * Users/Investors who have successfully purchased tokens but **have yet to claim any tokens** are eligible to request a refund.&#x20;
-* The refund request must be submitted within **the refund request period**, <mark style="color:red;">**which is 15 minutes before & after the TGE / Token listing event**</mark>. Any investors who fail to make a decision within the specified time _ **will not receive a refund.**_&#x20;
+* The refund request must be submitted within **the refund request period**, <mark style="color:red;">**which is 15 minutes before & after the TGE / Token listing event**</mark>. **Any investors who fail to make a decision within the specified time will not receive a refund.**&#x20;
+  * **Note: Refund decisions are up to the users. Users are supposed to take responsibility for their actions.**
 * Only pools in which users/investors have claimed tokens through the Red Kite launchpad are eligible for refunds. **Refunds are not available for pools with the claim type “Airdrop”.**&#x20;
 * Refund requests are only applied for pools with the same Swap & Claim networks. (E.g., BSC – BSC, ETH – ETH…)
 
