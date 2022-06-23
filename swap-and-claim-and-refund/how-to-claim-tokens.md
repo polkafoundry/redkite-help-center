@@ -6,7 +6,7 @@ Once the pool swap time is over, you will be able to claim your tokens. Open the
 
 **1. Claim Type**: How you receive your purchased tokens.
 
-* _**Claim on Red Kite**_: You claim your purchased tokens via [Red Kite Official Website](https://redkite.polkafoundry.com).
+* _**Claim on Red Kite**_: You claim your purchased tokens via [Red Kite Official Website](https://redkite.polkafoundry.com/).
 * _**Airdrop to participants’ wallets**_: The tokens will be airdropped straight to the wallet you used to swap tokens.
 * _**Claim a part of tokens on Red Kite**_: You can claim a portion of your tokens on Red Kite, and the rest will be claimed via the project website or vesting portal.
 * _**Claim on the project website**_: Instead of the Red Kite website, 100% of tokens are claimed on the project website.

@@ -1,5 +1,7 @@
 # Introduce
 
+
+
 ![Red Kite](<.gitbook/assets/Soar with Red Kite.png>)
 
 ### **Introduction Red Kite, a cutting-edge launchpad by PolkaFoundry**
@@ -41,7 +43,7 @@ With Red Kite’s lane-based swap system, every participant will get an opportun
 
 ### **Integrated vesting schedule**
 
-There will be a distribution portal for projects that will allow them to vest their sold tokens in pre-sale or post-sale secondary offerings. It is similar to the portal in use for $PKF token claiming [https://distro.polkafoundry.com (opens new window)](https://distro.polkafoundry.com).
+There will be a distribution portal for projects that will allow them to vest their sold tokens in pre-sale or post-sale secondary offerings. It is similar to the portal in use for $PKF token claiming [https://distro.polkafoundry.com (opens new window)](https://distro.polkafoundry.com/).
 
 ### **Integrated vesting schedule**
 
@@ -57,13 +59,13 @@ Taking advantage of Polkadot’s interoperability and scalability and integratin
 
 Need more information about PolkaFoundry?
 
-* [Website(opens new window)](https://polkafoundry.com)
+* [Website(opens new window)](https://polkafoundry.com/)
 * [EN — Telegram Announcement(opens new window)](https://t.me/PolkaFoundryANN)
 * [EN — Telegram chat(opens new window)](https://t.me/PolkaFoundry)
 * [EN — Twitter(opens new window)](https://twitter.com/PolkaFoundry)
 * [VI — Telegram Announcement(opens new window)](https://t.me/PolkaFoundryANN\_vi)
 * [VI — Telegram(opens new window)](https://t.me/PolkaFoundry\_vi)
 * [Email](https://redkite-faq.polkafoundry.com/about/info@polkafoundry.com)
-* [Forum](https://forum.polkafoundry.com)
+* [Forum](https://forum.polkafoundry.com/)
 
 &#x20;

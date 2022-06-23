@@ -1,4 +1,4 @@
-# How to join Community Pool
+# How to join Community Pools
 
 On Red Kite, there are no Tiers or KYC requirements for the Community Pool. To be eligible for the pool, all you must do is complete the social tasks on Gleam.
 
@@ -57,6 +57,6 @@ You can find out if you won the community pool by using one of the ways listed b
 ![Check allocation result in "My Pools" menu
 ](<../.gitbook/assets/image (21).png>)
 
-**Token swapping in the community pool is done on a first-come, first-served basis**. More information on how to swap tokens in the Community Pool can be found [here](../swap-and-claim/how-to-swap-tokens.md).
+**Token swapping in the community pool is done on a first-come, first-served basis**. More information on how to swap tokens in the Community Pool can be found [here](../swap-and-claim-and-refund/how-to-swap-tokens.md).
 
 ### **** <a href="#method-2-check-allocation-in-the-my-pool-menu." id="method-2-check-allocation-in-the-my-pool-menu."></a>
