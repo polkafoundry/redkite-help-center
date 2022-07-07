@@ -66,4 +66,4 @@ Users and investors join IDOs on Red Kite launchpad.
 
 ![](https://lh5.googleusercontent.com/masKMn97DhQhPnTgqmi4oCWt-5cV2gHYMDoehCJqkBZo\_1YpjKmgs4e-M4vnvGS34XYP-VztdEgmMDjxc\_OXJTz3Y13FouMui-B-pXlhtSqbr\_gQuSRMIhozhFEn8YTvW4zH15BQGoI0f4GUrQ)
 
-3\. The refund process will be executed via smart contract. If you encounter this error “_**Insufficient smart contract deposit. Please try claiming your funds again later**_**.**” when clicking on the “Claim refund” button, please kindly wait and try again later.&#x20;
+3\. The refund process will be executed via smart contract. If you encounter this error “_**Your request is being verified. Please try claiming your funds again later.**_” when clicking on the “Claim refund” button, please kindly wait and try again later.&#x20;
