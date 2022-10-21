@@ -1,9 +1,8 @@
 # Table of contents
 
-## Overview
+## FIRST STEP
 
-* [Introduce](README.md)
-* [How to connect wallet](overview/how-to-connect-wallet.md)
+* [How to connect wallet](README.md)
 
 ## JOIN IDOS
 
