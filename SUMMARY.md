@@ -11,10 +11,11 @@
 * [How to join IDO Pools](join-idos/how-to-join-ido-pools.md)
 * [How to join Community Pool](join-idos/how-to-join-community-pool.md)
 
-## Swap & Claim
+## Swap & Claim & Refund
 
-* [How to swap tokens](swap-and-claim/how-to-swap-tokens.md)
-* [How to claim tokens](swap-and-claim/how-to-claim-tokens.md)
+* [How to swap tokens](swap-and-claim-and-refund/how-to-swap-tokens.md)
+* [How to claim tokens](swap-and-claim-and-refund/how-to-claim-tokens.md)
+* [How to refund token](swap-and-claim-and-refund/how-to-refund-token.md)
 
 ## MY ACCOUNT
 
