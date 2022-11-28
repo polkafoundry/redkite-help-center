@@ -1,6 +1,6 @@
 # Linear Rate Pool
 
-## **1.** General Information
+**1.** **GENERAL INFORMATION**
 
 ![Linear Rate Pools](../.gitbook/assets/Screenshot\_75.png)
 
@@ -16,7 +16,7 @@ The linear rate pools include the following information.
 
 **Remaining**: The remaining tokens till the pool is full. "-" indicates that there is no restriction to the number of tokens that can be staked in this pool.
 
-Lock-up term: The length of time the tokens remain locked. Current terms on Red Kite are: 3 months, 6 months, 1 year**,** and None (No time limit).
+Lock-up term: The length of time the tokens remain locked. Current terms on Red Kite are: 3 months, 6 months, 1 year\*\*,\*\* and None (No time limit).
 
 **Withdraw delay time:** The amount of time you must wait when unstaking tokens from the pool. When you unstake tokens:
 
@@ -26,7 +26,7 @@ Lock-up term: The length of time the tokens remain locked. Current terms on Red 
 * The system will stop calculating your rewards.
 * After the delay time, you can receive the tokens you staked to your wallet address
 
-## **2. Stake**
+**2. HOW TO STAKE**
 
 **Step 1.** Click the "**Details**" button to view the detailed information of the pool.
 
@@ -47,7 +47,7 @@ The detailed information of this pool includes:
 
 !["Enable" button is displayed after user connect wallet to Red Kite](../.gitbook/assets/Screenshot\_79.png)
 
-**Step 4.** Stake**:** The Stake popup will appear after you click the **Stake** button.&#x20;
+**Step 4.** Stake\*\*:\*\* The Stake popup will appear after you click the **Stake** button.
 
 ![Click the "Stake" button](../.gitbook/assets/Screenshot\_80.png)
 
@@ -68,10 +68,10 @@ You can view the number of tokens you staked and the stalking rewards after stak
 ![Linear Rate pool with lock-up term (3 months, 6 months, 1 year):](<../.gitbook/assets/Screenshot\_83 (1).png>)
 
 {% hint style="info" %}
-For staking pools with IDO benefit, the staked numbers of PKF or LP-PKF will be used to calculate RKPs, which determine your tier on Red Kite. Go to My Account > My Tier menu to check your tier and your RKPs.&#x20;
+For staking pools with IDO benefit, the staked numbers of PKF or LP-PKF will be used to calculate RKPs, which determine your tier on Red Kite. Go to My Account > My Tier menu to check your tier and your RKPs.
 {% endhint %}
 
-## **3. Stake more**
+**3. HOW TO STAKE MORE**
 
 **Step 1:** Open the pool you have already staked by clicking the Details button.
 
@@ -83,11 +83,11 @@ For staking pools with IDO benefit, the staked numbers of PKF or LP-PKF will be 
 
 ![Stake more popup](../.gitbook/assets/Screenshot\_65.png)
 
-The new staking rewards are calculated from the date and time you staked more, and based on your new staked amount of PKF or LP-PKF, total tokens staked in pools, number of blocks etc. ****&#x20;
+The new staking rewards are calculated from the date and time you staked more, and based on your new staked amount of PKF or LP-PKF, total tokens staked in pools, number of blocks etc. \*\*\*\*
 
 For Linear Rate pool with lock-up term (3 months, 6 months, 1 year)**,** the expiry date will be extended from the date and time you staked more PKF or LP-PKF
 
-## **4. Claim staking rewards**
+**4. CLAIM STAKE REWARDS**
 
 **Step 1:** Open the pool for which you want to claim rewards by clicking on the Details button.
 
@@ -115,9 +115,8 @@ You can claim rewards in the following cases:
 * OR You can claim all of your staking rewards after the expiry date.
 {% endhint %}
 
-## **5. Unstake**
-
-### **5.1. Linear Rate pool with no lock-up term**
+**5. HOW TO UNSTAKE**\
+**5.1. Linear Rate pool with no lock-up term**
 
 **Step 1**: Open the pool details by clicking on the "Details" button.
 
@@ -165,10 +164,9 @@ Example:
 
 ![Withdraw token after withdrawal delay time](../.gitbook/assets/Screenshot\_74.png)
 
-### **5.2. Linear Rate pool with lock-up term**
+**5.2. Linear Rate pool with lock-up term**
 
-The steps to unstake from Linear Rate Pool with lock-up term is the same as the one with no lock-up term. However:&#x20;
+The steps to unstake fom Linear Rate Pool with lock-up term is the same as the one with no lock-up term. However:
 
-1. There is no withdrawal delay time.&#x20;
+1. There is no withdrawal delay time.
 2. Only the Staking Rewards will stop being earned once it reaches the expiry date. Your tier and Red Kite Points are preserved unless you unstake.
-

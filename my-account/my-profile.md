@@ -49,7 +49,7 @@ Your wallets linked to Red Kite are listed in the “Wallet Addresses” area.
 
 To connect (disconnect) your wallet address, please:
 
-1. Click the "**Edit Profile**" button on the upper right corner of the screen. Click "**Sign**" from the signature request received on your wallet to edit your profile.&#x20;
+1. Click the "**Edit Profile**" button on the upper right corner of the screen. Click "**Sign**" from the signature request received on your wallet to edit your profile.
 
 ![](../.gitbook/assets/Screenshot\_14.png)
 
@@ -57,13 +57,12 @@ To connect (disconnect) your wallet address, please:
 
 ![](../.gitbook/assets/Screenshot\_15.png)
 
-![](<../.gitbook/assets/Screenshot\_16 (1).png>)
+![](../.gitbook/assets/Screenshot\_16.png)
 
-3\. Click the "**Update Profile**" button then "**Approved**" on your wallet to save your connected wallet addresses.&#x20;
+3\. Click the "**Update Profile**" button then "**Approved**" on your wallet to save your connected wallet addresses.
 
 ![](../.gitbook/assets/Screenshot\_17.png)
 
-&#x20;You have successfully added your sub-wallet addresses on the Red Kite launchpad.
+You have successfully added your sub-wallet addresses on the Red Kite launchpad.
 
 ![](../.gitbook/assets/Screenshot\_18.png)
-

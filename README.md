@@ -1,12 +1,10 @@
 # Introduce
 
-<figure><img src=".gitbook/assets/Red Kite Proposal - 1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Anh 1.jpg" alt=""><figcaption><p>Red Kite</p></figcaption></figure>
 
 **Introduction Red Kite, a cutting-edge launchpad by Firebird (formerly PolkaFoundry)**
 
-Bundled with unparalleled features, Red Kite promises to give investors a new and surprising experience of an ordered and assured token sale process.
-
-Two of the notable reasons why solid projects failed were _‘poor marketing’_ and _‘lack of investors’ interest’_ due to fear of scams. Red Kite launchpad solves both of these problems by offering new ways to raise capital;
+Bundled with unparalleled features, Red Kite promises to give investors a new and surprising experience of an ordered and assured token sale process.Two of the notable reasons why solid projects failed were ‘poor marketing’ and ‘lack of investors’ interest’ due to fear of scams. Red Kite launchpad solves both of these problems by offering new ways to raise capital;
 
 * Red Kite is supported by a network of tier-1 marketing partners, top influencers, and communities to help the project soars;
 * The crypto projects go through a robust vetting process, and they’re hand-picked to protect investors’ interests.
@@ -15,15 +13,16 @@ Red Kite provides a safer platform for investors, allowing them to gain early ac
 
 Red Kite is part of the Firebird (formerly PolkaFoundry) ecosystem and uses the platform’s native **PKF** as a utility token. The investors can hold PKF tokens to join the Red Kite platform and participate in the token sale rounds for hand-picked and vetted crypto projects.
 
-Since the first IDO in May 2021, more than 70 projects have been successfully launched with remarkable results, making Red Kite one of the world-leading launchpads.
+\
+
 
 <figure><img src=".gitbook/assets/Red Kite Proposal - 3.jpg" alt=""><figcaption></figcaption></figure>
 
-Need more information about Red Kite?
+**Need more information about Red Kite?**
 
-* [Website](https://redkitepad.com/#/)
-* [Telegram Global Chat](https://t.me/redkite\_en)
-* [Announcement Channel](https://t.me/redkiteANN)
-* [Twitter ](https://twitter.com/redkitepad)
-* [Medium](https://medium.com/polkafoundry)
-* Email: info@redkitepad.com | support@redkitepad.com
+* [**Website**](https://redkitepad.com/#/)
+* [**Telegram Global Chat**](https://t.me/redkite\_en)
+* [**Announcement Channel**](https://t.me/redkiteANN)
+* [**Twitter**](https://twitter.com/redkitepad)
+* [**Medium**](https://medium.com/polkafoundry)****
+* **Email: info@redkitepad.com | support@redkitepad.com**

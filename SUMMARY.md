@@ -1,6 +1,6 @@
 # Table of contents
 
-## FIRST STEP
+## Overview
 
 * [Introduce](README.md)
 * [How to connect wallet](overview/how-to-connect-wallet.md)
@@ -9,13 +9,12 @@
 
 * [Type of pools on Red Kite](join-idos/type-of-pools-on-red-kite.md)
 * [How to join IDO Pools](join-idos/how-to-join-ido-pools.md)
-* [How to join Community Pools](join-idos/how-to-join-community-pools.md)
+* [How to join Community Pool](join-idos/how-to-join-community-pool.md)
 
-## Swap & Claim & Refund
+## Swap & Claim
 
-* [How to swap tokens](swap-and-claim-and-refund/how-to-swap-tokens.md)
-* [How to claim tokens](swap-and-claim-and-refund/how-to-claim-tokens.md)
-* [How to refund tokens](swap-and-claim-and-refund/how-to-refund-tokens.md)
+* [How to swap tokens](swap-and-claim/how-to-swap-tokens.md)
+* [How to claim tokens](swap-and-claim/how-to-claim-tokens.md)
 
 ## MY ACCOUNT
 
