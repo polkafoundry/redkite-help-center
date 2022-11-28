@@ -1,25 +1,29 @@
-# How to connect wallet
+# Introduce
 
-To connect your wallet to Red Kite, follow the steps below.
+<figure><img src=".gitbook/assets/Red Kite Proposal - 1.jpg" alt=""><figcaption></figcaption></figure>
 
-### **Step 1.** Go to the [Red Kite Website](http://redkite.polkafoundry.com/#/dashboard)****
+**Introduction Red Kite, a cutting-edge launchpad by Firebird (formerly PolkaFoundry)**
 
-### **Step 2.** Click “Connect Wallet” in the header.&#x20;
+Bundled with unparalleled features, Red Kite promises to give investors a new and surprising experience of an ordered and assured token sale process.
 
-![](../.gitbook/assets/1.png)
+Two of the notable reasons why solid projects failed were _‘poor marketing’_ and _‘lack of investors’ interest’_ due to fear of scams. Red Kite launchpad solves both of these problems by offering new ways to raise capital;
 
-### **Step 3. Select network and wallet to connect**
+* Red Kite is supported by a network of tier-1 marketing partners, top influencers, and communities to help the project soars;
+* The crypto projects go through a robust vetting process, and they’re hand-picked to protect investors’ interests.
 
-On the "Connect Wallet" popup, select the network and the wallet you use. We recommend using Metamask, which is fully supported by the Red Kite Website.
+Red Kite provides a safer platform for investors, allowing them to gain early access to vetted token sales at a lower price before they hit the market.
 
-{% hint style="warning" %}
-Before connecting your wallet, you must agree to Red Kite's Terms of Service and Privacy Policy.
-{% endhint %}
+Red Kite is part of the Firebird (formerly PolkaFoundry) ecosystem and uses the platform’s native **PKF** as a utility token. The investors can hold PKF tokens to join the Red Kite platform and participate in the token sale rounds for hand-picked and vetted crypto projects.
 
-![Connect Wallet Popup](../.gitbook/assets/Screenshot\_39.png)
+Since the first IDO in May 2021, more than 70 projects have been successfully launched with remarkable results, making Red Kite one of the world-leading launchpads.
 
-### Step 4. Sign on wallet
+<figure><img src=".gitbook/assets/Red Kite Proposal - 3.jpg" alt=""><figcaption></figcaption></figure>
 
-You will be asked to confirm your wallet on the website. To connect your wallet, click "Sign" on the wallet. The information on the website will not be displayed accurately if you do not sign on your wallet to confirm.
+Need more information about Red Kite?
 
-![You must sign on your wallet to confirm](../.gitbook/assets/Screenshot\_40.png)
+* [Website](https://redkitepad.com/#/)
+* [Telegram Global Chat](https://t.me/redkite\_en)
+* [Announcement Channel](https://t.me/redkiteANN)
+* [Twitter ](https://twitter.com/redkitepad)
+* [Medium](https://medium.com/polkafoundry)
+* Email: info@redkitepad.com | support@redkitepad.com

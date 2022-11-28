@@ -2,7 +2,8 @@
 
 ## FIRST STEP
 
-* [How to connect wallet](README.md)
+* [Introduce](README.md)
+* [How to connect wallet](overview/how-to-connect-wallet.md)
 
 ## JOIN IDOS
 
