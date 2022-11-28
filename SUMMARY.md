@@ -13,9 +13,10 @@
 
 ## Swap & Claim & Refund
 
-* [How to swap tokens](swap-and-claim-and-refund/how-to-swap-tokens.md)
-* [How to claim tokens](swap-and-claim-and-refund/how-to-claim-tokens.md)
-* [How to refund token](swap-and-claim-and-refund/how-to-refund-token.md)
+* [How to swap tokens](swap-and-claim/how-to-swap-tokens.md)
+* [How to claim tokens](swap-and-claim/how-to-claim-tokens.md)
+* [How to refund token](swap-and-claim-and-refund/how-to-refund-token/README.md)
+  * [Refund Policy](swap-and-claim-and-refund/how-to-refund-token/refund-policy.md)
 
 ## MY ACCOUNT
 
