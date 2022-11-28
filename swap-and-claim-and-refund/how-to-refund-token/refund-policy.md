@@ -47,7 +47,7 @@ The new refund policy will take effect on **December 1, 2022** and will apply to
 🔸 Refund requests are only applied for pools with the same Swap & Claim networks. (E.g., BSC — BSC, ETH — ETH, etc.)
 
 \
-⚠️ NOTES:&#x20;
+<mark style="color:red;">⚠️ NOTES:</mark>&#x20;
 
 * Refund decisions are up to the users. Users are supposed to take responsibility for their actions.
 * You will not be eligible for a refund if you have claimed a part of the tokens.
