@@ -17,6 +17,7 @@
 * [How to claim tokens](swap-and-claim/how-to-claim-tokens.md)
 * [How to refund token](swap-and-claim-and-refund/how-to-refund-token/README.md)
   * [Refund Policy](swap-and-claim-and-refund/how-to-refund-token/refund-policy.md)
+  * [Request Refund](swap-and-claim-and-refund/how-to-refund-token/request-refund.md)
 
 ## MY ACCOUNT
 
